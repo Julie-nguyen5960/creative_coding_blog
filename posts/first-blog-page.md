@@ -1,7 +1,7 @@
 ---
 title: Week 1
 published_at: 2025-03-07
-snippet: An example of a blog post.
+snippet: Documentation of my introduction to coding!
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -12,6 +12,6 @@ This is my first time touching code, so I find myself struggling to understand a
 
 My friend hopped onto voice chat to explain to me about how the code for the 'For Loop' works and what it is doing. She managed to explain how some strings worked and how the code creates loops.
 
-<img src "Pictures/explain.jfif" alt="Friend Nicole explaining concept of 'For Loops'" width="300 height="500>
+![Friend explaining 'For Loop' concept](Pictures/explain.jfif)
 
 <iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
