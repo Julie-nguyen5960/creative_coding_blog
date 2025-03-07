@@ -1,6 +1,6 @@
 ---
-title: This is a blog post!
-published_at: 2022-11-04
+title: Week 1
+published_at: 2025-03-07
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
@@ -8,8 +8,8 @@ allow_math: true
 
 # Homework tasks pt. 1
 
-## Latest update on:
+This is my first time touching code, so I find myself struggling to understand anything and becoming overwhelmed with this new language. Upon looking at the homework tasks, I found it jarring to look at all the lines of code for this [sketch](https://editor.p5js.org/capogreco/sketches/-B11g3Uth). So rather than attempting to create the grid, I tried dissecting the code for this sketch through the help of my friend and my little brother who have more experiences in coding.
 
-This is my first time touching code, so I find myself struggling to understand anything and overwhelmed with this new language. Upon looking at the homework tasks, I found it jarring to look at all the lines of code for this [sketch](https://editor.p5js.org/capogreco/sketches/-B11g3Uth). So rather than attempting to create the grid, I tried dissecting the code for this sketch through the help of my friend and my little brother who have more experiences in coding.
+My friend hopped onto voice chat to explain to me about how the code for the 'For Loop' works and what it is doing. She managed to explain how some strings worked and how the code creates loops.
 
-My friend hopped onto voice chat to explain to me about how the code for the 'For Loop' works and what it is doing.
+<iframe id="nicole explain" img src="c:\Users\julie\Pictures\Screenshot 2025-03-06 175647.png"></iframe>
