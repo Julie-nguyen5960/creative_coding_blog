@@ -47,4 +47,4 @@ In order to test out my theory, I had to test out some of the concepts that I ha
 
     const iframe  = document.getElementById (`attempt_block`)
     iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
+    iframe.height = iframe.width * 50 / 50 + 42
