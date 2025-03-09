@@ -22,7 +22,7 @@ I am completely clueless how Rozendaal was able to attain such effect but I'm gu
 
 **list of concepts to replicate the work**
 
-- The drawing function prompting to draw a rectangle: rect ()
+- The drawing function prompting to draw a rectangle/square: rect () or square ()
 - To set a range of colours to appear, either using RGB or HSB: Fill ()
 - Track the number of frames drawn: frameCount
 - possibly using the mode RADIUS instead of CENTER: rectMode (RADIUS).
@@ -41,10 +41,21 @@ In order to test out my theory, I had to test out some of the concepts that I ha
 
 ## My attempt:
 
-<iframe id="attempt_block" src="https://editor.p5js.org/Julie-nguyen5960/full/JVNz4BlQB"></iframe>
+<iframe id="attempt_blocks" src="https://editor.p5js.org/Julie-nguyen5960/full/JVNz4BlQB"></iframe>
 
 <script type="module">
 
-    const iframe  = document.getElementById (`attempt_block`)
+    const iframe  = document.getElementById (`attempt_blocks`)
     iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 50 / 50 + 42
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
+I implemented the ColorMode () function to define what colour values I wanted to use. I also used the function rectMode (CENTER) to ensure that the squares' center will expand based on the points (x,y) and the variables 'sizeTop' and 'sizeBottom'.
+
+**Resources I've engaged with:**
+
+- ChatGPT- to obtain functions and strings for specific actions e.g. to make squares expand.
+- [JS Operators](https://www.w3schools.com/jsref/jsref_operators.asp)- Provides Javascript Assignment Operators. Useful for incrementing values.
+- [HTML Color Modes](https://htmlcolorcodes.com/)- Obtain RGB colour values.
+- [P5js References](https://p5js.org/reference/)- Useful for finding different functions and its options.
