@@ -12,7 +12,7 @@ This is my first time touching code, so I find myself struggling to understand a
 
 My friend hopped onto voice chat to explain to me about how the code for the 'For Loop' works and what it is doing. She managed to explain how some strings worked and how the code creates loops.
 
-![friend explaining](explain.jfif)
+![friend explaining](Pictures/explain.jfif)
 
 ## Rafael Rozendaal's work: Blocks
 
@@ -41,7 +41,7 @@ In order to test out my theory, I had to test out some of the concepts that I ha
 
 ## My attempt:
 
-<iframe id="attempt_block" src="https://editor.p5js.org/Julie-nguyen5960/sketches/JVNz4BlQB"></iframe>
+<iframe id="attempt_block" src="https://editor.p5js.org/Julie-nguyen5960/full/JVNz4BlQB"></iframe>
 
 <script type="module">
 
