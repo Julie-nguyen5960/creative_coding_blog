@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Homework task pt. 1
+# Homework task 1
 
 This is my first time touching code, so I find myself struggling to understand anything and becoming overwhelmed with this new language. Upon looking at the homework tasks, I found it jarring to look at all the lines of code for this [sketch](https://editor.p5js.org/capogreco/sketches/-B11g3Uth). So rather than attempting to create the grid, I tried dissecting the code for this sketch through the help of my friend and my little brother who are more experienced in coding.
 
@@ -35,7 +35,25 @@ I am completely clueless how Rozendaal was able to attain such effect but I'm gu
 
 # Homework task 2
 
-As for this class activity, I wasn't able to participate in group discussions due to stomach issues, hence why I came late to class. First thing I got started on was asking for help in fixing my issue with the 'deno task start' command not working. However, these issues have been fixed and now I am able to publish my blog onto the browser!
+First thing I got started on was asking for help in fixing my issue with the 'deno task start' command not working. However, these issues have been fixed and now I am able to publish my blog onto the browser!
+
+For this homework task 2, we were tasked to discuss amongst other classmates about the backend code of Rafaël Rozendaal's artworks. The questions that we had to ask eachother included:
+
+- what do you think is going on, under the hood?
+- what concepts would I need to understand in order to replicate this work in p5?
+- what resources might help me to learn those concepts?
+
+In the Creative Coding discord server, Rania was open to discussing Rozendaal's works so I insisted in having a further discussion. She had selected the artist's piece called 'Missing' which included tiles of colourful squares and one active square moving at a time. On the other hand, I picked the piece 'Blocks,' and we proceeded to hypothesize what the code might look like under the hood for each other's artworks. For Rozendaal's "Blocks," Rania assumed that he has used 'a high framecount () variable of around 150 to make the squares move that slowly. Whilst looking at the movement of the squares, she guessed that the artist 'may have utilised frame by frame rendering in draw (), and Position size happens based on time or mathematical functions like sin() for smooth motion.'
+
+The concepts that she has provided in order to replicate such work included:
+
+- Rect() and square()
+- Fill (), stroke(), color(), and lerpColor().
+- Random()
+- FrameCount, deltaTime, or time-based functions, sin(), cos(), lerp()
+- Using variables (x,y)
+
+During this discussion, I found out that Rania had similar resources to me in obtaining information about coding. These common resources comprised of p5.js references, CHATGPT, Youtube channel The Coding Train and W3Schools. However, she had additional sites that I never thought to use such as Stack Overflow and Reddit. This was very insightful and very useful in how I can further develop my learning for coding.
 
 In order to test out my theory, I had to test out some of the concepts that I have listed in the previous homework task. I did not test all of my proposed concepts but I did my best to replicate how the squares expand on screen in the first few frames.I tried to implement code that was easy for me to intepret.
 
