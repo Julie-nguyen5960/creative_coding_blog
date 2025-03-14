@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Homework task 1
+# Homework task 1a
 
 This is my first time touching code, so I find myself struggling to understand anything and becoming overwhelmed with this new language. Upon looking at the homework tasks, I found it jarring to look at all the lines of code for this [sketch](https://editor.p5js.org/capogreco/sketches/-B11g3Uth). So rather than attempting to create the grid, I tried dissecting the code for this sketch through the help of my friend and my little brother who are more experienced in coding.
 
@@ -33,7 +33,7 @@ I am completely clueless how Rozendaal was able to attain such effect but I'm gu
 - ChatGPT- to understand concepts of coding
 - Tutorials on Youtube eg. The Coding Train
 
-# Homework task 2
+# Homework task 1b
 
 First thing I got started on was asking for help in fixing my issue with the 'deno task start' command not working. However, these issues have been fixed and now I am able to publish my blog onto the browser!
 
