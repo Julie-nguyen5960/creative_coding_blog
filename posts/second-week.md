@@ -100,7 +100,7 @@ As for the mouse interactions, the plan is to make my friend's and my icons the 
 For the third part of this homework, we were assigned to analyse the code for the recreation sketch of '[Falling Falling](https://editor.p5js.org/Julie-nguyen5960/sketches/Xx6TxhhO1)' by Rafaël Rozendaal. I don't consider myself very skilled in coding so interpeting what certain codes will do was a challenge for me. Majority of my notes are guesses which I'm not most certain in, there were some line of codes I was more confident in knowing their functions and how it affected the sketch.
 
 *Attempt at analysing code:*
-![falling](Pictures/falling.jpg)
+![falling](Pictures/falling.png)
 
 
 **List of lines of code I don't understand**
