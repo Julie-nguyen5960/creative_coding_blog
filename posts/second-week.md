@@ -10,7 +10,7 @@ allow_math: true
 
 **♦ cute visuals-**
 
- To encapsulate cuteness, these visuals need to consist of mostly rounded lines and edges to make the object or character more approachable. The use of pastel colours will also aid in making the sketch appear more cute. Many cute mascots contain rounded features, big eyes and are usually short. Noteable characters that are considered cute, includes Pompompurin, ShinChan, Chiikawa and Mofusand. In my sketch, I plan to draw up a mascot with rounded features, with a face and drawn with soft lines. The concepts I will utilise for this sketch is Image(), loadImage(), colorMode (HSB), and fill().
+ To encapsulate cuteness, these visuals need to consist of mostly rounded lines and edges to make the object or character more approachable. The use of pastel colours will also aid in making the sketch appear more cute. Many cute mascots contain rounded features, big eyes and are usually short. Noteable characters that are considered cute, includes Pompompurin, ShinChan, Chiikawa and Mofusand. In my sketch, I plan to draw up a mascot with rounded features, with a face and drawn with soft lines. The concepts I will utilise for this sketch is Image(), loadImage(), random(), colorMode (HSB), and fill().
 
 **♦ cute sounds-**
 
@@ -30,6 +30,8 @@ allow_math: true
 - raseldesigner93 (n.d) Cute Piano Illustration, Accessed 16 March 2025, [image two](https://www.vecteezy.com/vector-art/47882979-cute-piano-illustration-cartoons-clipart-and-line-art-design-for-microstock-adorable-piano-illustration-perfect-for-cartoons-clipart-and-line-art-designs)
 
 - [Piano Audio](https://www.youtube.com/watch?v=7w6rUfoQtxo)
+
+- Code extracted from @arialabel's [sketch](https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound)
 
 **♦ cute interactions-**
 
@@ -51,7 +53,7 @@ In order to create cute interactions, the cute characters have to be interactive
 # Homework task 2b
 Based on the description of a 'kindred spirit,' my mind gravitated toward my best friend who guided me on the path of self-discovery and served as a positive influence in my life. Our dynamic has changed alot over the past years; at first, I was the reserved, quiet friend whilst she was the outgoing and loud friend. Now, we are more open with each other since she has tuaght me to not be unashamed of who I am. It felt like a miracle to meet someone with so much in common, especially when we shared the same hobbies, interests, and sense of adventure. She was there when I had no one else to share my interest in anime with, encouraged me when I felt down, and gave me a positive outlook on life.
 
-1. Please describe the kindred spirit for whom your AT1 is an offering.
+1.
 
 **- what is the context of your kinship?**
 
@@ -66,18 +68,27 @@ We share the common purpose of wanting to live spontaneously and are willing to 
 Our shared adversity is mainly our self-esteem, tendency to hide our emotions and our need to constantly grow as a person. I believe that there's always room to improve as a person. We always try to uplift each other with positive affirmations and compliments, it always helps me gain more confidence in myself.
 
 ---
+2.
 
-2. Explain how your chosen kindred spirit may understand or relate to the visual, sonic, and interactive elements of your AT1 idea.
+![sitoncar](Pictures/sitoncar.jpg) *-When I sketched this out, I imagined the sky changing once you click the mouse onto the sky. However, I didn't gravitate towards this idea as it seemed less fun to make and required more drawing.*
 
-![sitoncar](Pictures/sitoncar.jpg) -When I sketched this out, I imagined the sky changing once you click the mouse onto the sky. However, I didn't gravitate towards this idea as it seemed less fun to make and required more drawing.
-
-![herefm](Pictures/herefm.jpg) - I really liked this idea due to how simple this idea is but can be executed in a cute fashion once I lay out the foundation for the code. 
+![herefm](Pictures/herefm.jpg) - *I really liked this idea due to how simple this idea is but can be executed in a cute fashion once I lay out the foundation for the code.* 
 
 
-So if I was creating a sketch in tribute to my friend, I was planning to represent us either as an cute animal or as chibi communicating through a call. I also wanted to add a video player on the side to further establish what type of setting it is. I also want to utilise the random function to change the colours background to various pastel colours. I am trying to recreate this time in our life (2020), where we reguarly hopped onto a website called HereFM to watch anime together. I think it will be a cute idea since HereFM allowed for cute customisation choices in how you wanted to decorate the watch party room. 
+So if I was creating a sketch in tribute to my friend, I was planning to represent us either as an cute animal or as chibi communicating through a call. I also wanted to add a video player on the side to further establish what type of setting it is. I also want to utilise the random function to change the background colour to various pastel colours. I am trying to recreate this time in our life (2020), where we reguarly hopped onto a website called Here.fm to watch anime together. I think it will be a cute idea since HereFM allowed for cute customisation choices in how you wanted to decorate the watch party room. 
 
 In addition to the sonic elements, I was hoping to add sounds that are quite similar to animal crossing's sped up speech when our icons are clicked. I'm not too sure about having audio play from the mp4 file, but most likely not just so the sounds aren't too distracting.
 
-As for the mouse interactions, the plan is to make my friend's and my icons the interactive elements of this sketch. My aim is to ensure that the icons change once the mouse clicks on it and also allow users to play the video in the background.
+As for the mouse interactions, the plan is to make my friend's and my icons the interactive elements of this sketch. My aim is to ensure that the icons change once the mouse clicks on it and also allow users to watch the video in the background that is on loop to further immerse them in the chatroom.
 
+ <iframe id="bunny test" src=" https://editor.p5js.org/Julie-nguyen5960/full/PFuiDUCQE"></iframe>
 
+<script type="module">
+
+    const iframe  = document.getElementById (`bunny test`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
+*This is the general idea of what functions I would like to include in the final sketch where the video in the background loops, whilst you are able to interact with the icon that triggers a sound*
