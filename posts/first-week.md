@@ -33,6 +33,7 @@ I am completely clueless how Rozendaal was able to attain such effect but I'm gu
 - ChatGPT- to understand concepts of coding
 - Tutorials on Youtube eg. The Coding Train
 
+---
 # Homework task 1b
 
 First thing I got started on was asking for help in fixing my issue with the 'deno task start' command not working. However, these issues have been fixed and now I am able to publish my blog onto the browser!

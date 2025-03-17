@@ -25,7 +25,11 @@ allow_math: true
     iframe.height = iframe.width * 9 / 10 + 30
 
 </script>
+ - raseldesigner93 (n.d) Cute Piano Illustration, Accessed 16 March 2025, [image one](https://www.vecteezy.com/vector-art/47882979-cute-piano-illustration-cartoons-clipart-and-line-art-design-for-microstock-adorable-piano-illustration-perfect-for-cartoons-clipart-and-line-art-designs)
 
+- raseldesigner93 (n.d) Cute Piano Illustration, Accessed 16 March 2025, [image two](https://www.vecteezy.com/vector-art/47882979-cute-piano-illustration-cartoons-clipart-and-line-art-design-for-microstock-adorable-piano-illustration-perfect-for-cartoons-clipart-and-line-art-designs)
+
+- [Piano Audio](https://www.youtube.com/watch?v=7w6rUfoQtxo)
 
 **♦ cute interactions-**
 
@@ -40,35 +44,40 @@ In order to create cute interactions, the cute characters have to be interactive
     iframe.height = iframe.width * 9 / 10 + 30
 
 </script>
+- [Gojo plush render](https://www.deviantart.com/marcopolo157/art/Gojo-Ball-Plush-Render-PNG-JJK-1047244907)
 
-
+- (All these P5.js sketches are just there to let me have a grasp at the functions)
+---
 # Homework task 2b
-Based on the description of a 'kindred spirit,' my mind gravitated toward a special friend who guided me on the path of self-discovery and served as a positive influence in my life. Our first meeting was very spontaneous- we met through an arcade session and played Taikou together. It felt like a miracle to meet someone with so much in common. He introduced me to many different hobbies, encouraged me when I felt down and provided me positive outlook on life. 
+Based on the description of a 'kindred spirit,' my mind gravitated toward my best friend who guided me on the path of self-discovery and served as a positive influence in my life. Our dynamic has changed alot over the past years; at first, I was the reserved, quiet friend whilst she was the outgoing and loud friend. Now, we are more open with each other since she has tuaght me to not be unashamed of who I am. It felt like a miracle to meet someone with so much in common, especially when we shared the same hobbies, interests, and sense of adventure. She was there when I had no one else to share my interest in anime with, encouraged me when I felt down, and gave me a positive outlook on life.
 
 1. Please describe the kindred spirit for whom your AT1 is an offering.
 
 **- what is the context of your kinship?**
 
-I'm basing this assignment on a kinship shared between me and my friend, I see him as someone who has guided me through life and its circumstances. Even though, we do not talk to each other often, I still feel that we have stayed close and whenever we get the chance to hang out, it's always a pleasure to spend time with him. He also helped me  further shape my identity through our exploration of different hobbies, such as DDR, Taikou, photography and much more.
+I'm basing this assignment on a kinship shared between me and my friend, I see her as someone who has guided me through life and its circumstances. We remained close for more than a decade due to our shared effort of keeping each other in contact. Whenever we get the chance to hang out, it's always a pleasure to spend time with her. She also helped me further shape my identity through our exploration of different hobbies, ideas and many more.
 
 **- what is your common purpose?**
 
-Despite us being in different stages of life, we share the common purpose of wanting to live spontaneously and are willing to try the many things that life has to offer. 
+We share the common purpose of wanting to live spontaneously and are willing to try the many things that life has to offer. 
 
 **- who or what is your shared challenge / adversary?**
 
-Our shared adversity is mainly our self-esteem, lack of confidence and our need to constantly grow as a person. I believe that there's always room to improve as a person. We always try to uplift each other with positive affirmations and compliments, it always helps me gain more confidence in myself.
+Our shared adversity is mainly our self-esteem, tendency to hide our emotions and our need to constantly grow as a person. I believe that there's always room to improve as a person. We always try to uplift each other with positive affirmations and compliments, it always helps me gain more confidence in myself.
 
+---
 
 2. Explain how your chosen kindred spirit may understand or relate to the visual, sonic, and interactive elements of your AT1 idea.
 
-So if I was creating a sketch in tribute to my friend, I would represent him as a bucket hat with a face since he always wore this item whenever we hang out. I plan to include the arcade game Taikou to signify his passion for the game as well as the place where we first met.
+![sitoncar](Pictures/sitoncar.jpg) -When I sketched this out, I imagined the sky changing once you click the mouse onto the sky. However, I didn't gravitate towards this idea as it seemed less fun to make and required more drawing.
 
-In addition to the Taikou drums, I'll add some small drum sounds when the mouse interacts with the drum. Though I am unsure if it is possible to make the bucket hat motif draggable, whilst being able to interact with the drum by simply dragging it over the drum to elicit the sound.
+![herefm](Pictures/herefm.jpg) - I really liked this idea due to how simple this idea is but can be executed in a cute fashion once I lay out the foundation for the code. 
 
-As for the mouse interactions, I was hoping to make the bucket hat motif draggeable and the drums to make a sound once the mouse clicks or hovers over it. It will be short and quick to achieve the essence of cuteness. 
 
-![ddr](Pictures/ddr.jpg)
+So if I was creating a sketch in tribute to my friend, I was planning to represent us either as an cute animal or as chibi communicating through a call. I also wanted to add a video player on the side to further establish what type of setting it is. I also want to utilise the random function to change the colours background to various pastel colours. I am trying to recreate this time in our life (2020), where we reguarly hopped onto a website called HereFM to watch anime together. I think it will be a cute idea since HereFM allowed for cute customisation choices in how you wanted to decorate the watch party room. 
 
-![drum](Pictures/drum.jpg)
+In addition to the sonic elements, I was hoping to add sounds that are quite similar to animal crossing's sped up speech when our icons are clicked. I'm not too sure about having audio play from the mp4 file, but most likely not just so the sounds aren't too distracting.
+
+As for the mouse interactions, the plan is to make my friend's and my icons the interactive elements of this sketch. My aim is to ensure that the icons change once the mouse clicks on it and also allow users to play the video in the background.
+
 
