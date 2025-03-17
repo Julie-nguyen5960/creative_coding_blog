@@ -75,7 +75,7 @@ Our shared adversity is mainly our self-esteem, tendency to hide our emotions an
 ![herefm](Pictures/herefm.jpg) - *I really liked this idea due to how simple this idea is but can be executed in a cute fashion once I lay out the foundation for the code.* 
 
 
-So if I was creating a sketch in tribute to my friend, I was planning to represent us either as an cute animal or as chibi communicating through a call. I also wanted to add a video player on the side to further establish what type of setting it is. I also want to utilise the random function to change the background colour to various pastel colours. I am trying to recreate this time in our life (2020), where we reguarly hopped onto a website called Here.fm to watch anime together. I think it will be a cute idea since HereFM allowed for cute customisation choices in how you wanted to decorate the watch party room. 
+So if I was creating a sketch in tribute to my friend, I was planning to represent us either as an cute animal or as chibi communicating through a call. I also wanted to add a video player on the side to further establish what type of setting it is. I also want to utilise the random function to change the background colour to various pastel colours. I am trying to recreate this time in our life (2020), where we reguarly hopped onto a website called Here.fm to watch anime together. I think it will be a cute idea since Here.fm allowed for cute customisation choices in how you wanted to decorate the watch party room. 
 
 In addition to the sonic elements, I was hoping to add sounds that are quite similar to animal crossing's sped up speech when our icons are clicked. I'm not too sure about having audio play from the mp4 file, but most likely not just so the sounds aren't too distracting.
 
@@ -92,3 +92,78 @@ As for the mouse interactions, the plan is to make my friend's and my icons the 
 </script>
 
 *This is the general idea of what functions I would like to include in the final sketch where the video in the background loops, whilst you are able to interact with the icon that triggers a sound*
+
+[link to full sketch](https://editor.p5js.org/Julie-nguyen5960/full/PFuiDUCQE) (Bunny video doesn't play in screenplayer)
+
+3. 
+
+For the third part of this homework, we were assigned to analyse the code for the recreation sketch of '[Falling Falling](https://editor.p5js.org/Julie-nguyen5960/sketches/Xx6TxhhO1)' by Rafaël Rozendaal. I don't consider myself very skilled in coding so interpeting what certain codes will do was a challenge for me. Majority of my notes are guesses which I'm not most certain in, there were some line of codes I was more confident in knowing their functions and how it affected the sketch.
+
+*Attempt at analysing code:*
+![falling](Pictures/falling.jpg)
+
+
+**List of lines of code I don't understand**
+- faller.start_points = [
+
+    { x: 0, y: height / 2 }, 
+    { x: 0, y: 0 },
+    { x: width / 4, y: 0 },
+    { x: width / 2, y: 0 },
+    { x: width * 3 / 4, y: 0 },
+    { x: width, y: 0 },
+    { x: width, y: height / 2 },
+  ]
+
+-  faller.end_points.push ({
+      x: i * width / 8,
+      y: height
+    })
+  
+ -  faller.curves = new Array (7).fill ().map (rand_curve)
+  faller.phase  = 0
+  
+  - fallers.push (Object.assign ({}, faller))
+
+  - new_faller.curves = new Array (7).fill ().map (rand_curve)
+    fallers.reverse ()
+    fallers.push (new_faller)
+    fallers.reverse ()
+
+-  fill (lerpColor (f.colours[0], f.colours[1], f.phase))
+    beginShape ()
+    vertex (0, height)
+    f.start_points.forEach ((s, i) => {
+      const p = find_point (s, f.end_points[i], f.phase ** f.curves[i])
+      vertex (p.x, p.y)
+    })
+    vertex (width, height)
+    endShape ()
+    f.phase += 0.008
+    if (f.phase > 1) redundant.push (i)
+
+  
+ - redundant.forEach (n => fallers.splice (n, 1))
+  
+
+
+- function find_point (start, end, phase) {
+  const delt = {
+    x: end.x - start.x,
+    y: end.y - start.y
+  }
+  const x = start.x + delt.x * phase
+  const y = start.y + delt.y * phase
+  return { x, y }
+}
+
+- function rand_curve () {
+  return random () * 2 + 1
+}
+---
+**Resources that may help me understand these lines of code**
+- CHATGPT
+- W3School- Javascript Operations
+- P5.js References
+- P5.js Tutorials
+- The Coding Train (YouTube)
