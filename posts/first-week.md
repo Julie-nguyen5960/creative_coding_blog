@@ -34,6 +34,7 @@ I am completely clueless how Rozendaal was able to attain such effect but I'm gu
 - Tutorials on Youtube eg. The Coding Train
 
 ---
+
 # Homework task 1b
 
 First thing I got started on was asking for help in fixing my issue with the 'deno task start' command not working. However, these issues have been fixed and now I am able to publish my blog onto the browser!
@@ -44,7 +45,9 @@ For this homework task 2, we were tasked to discuss amongst other classmates abo
 - what concepts would I need to understand in order to replicate this work in p5?
 - what resources might help me to learn those concepts?
 
-In the Creative Coding discord server, Rania was open to discussing Rozendaal's works so I insisted in having a further discussion. She had selected the artist's piece called 'Missing' which included tiles of colourful squares and one active square moving at a time. On the other hand, I picked the piece 'Blocks,' and we proceeded to hypothesize what the code might look like under the hood for each other's artworks. For Rozendaal's "Blocks," Rania assumed that he has used 'a high framecount () variable of around 150 to make the squares move that slowly. Whilst looking at the movement of the squares, she guessed that the artist 'may have utilised frame by frame rendering in draw (), and Position size happens based on time or mathematical functions like sin() for smooth motion.'
+In the Creative Coding discord server, Rania was open to discussing Rozendaal's works so I insisted in having a further discussion. She had selected the artist's piece called 'Missing' which included tiles of colourful squares and one active square moving at a time.
+
+On the other hand, I picked the piece 'Blocks,' and we proceeded to hypothesize what the code might look like under the hood for each other's artworks. For Rozendaal's "Blocks," Rania assumed that he has used 'a high framecount () variable of around 150 to make the squares move that slowly. Whilst looking at the movement of the squares, she guessed that the artist 'may have utilised frame by frame rendering in draw (), and Position size happens based on time or mathematical functions like sin() for smooth motion.'
 
 The concepts that she has provided in order to replicate such work included:
 
