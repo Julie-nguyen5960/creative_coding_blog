@@ -1,6 +1,6 @@
 ---
 title: Week 3
-published_at: 2025-03-07
+published_at: 2025-03-00
 snippet: Developing ideas!
 disable_html_sanitization: true
 allow_math: true
@@ -25,7 +25,7 @@ Sonically, I intend to utilise a sped up chatter sound effect similar to animal 
 
 **- interactively**
 
-In terms of interactivity, the interactive elements will comprise of mouse functions which involves mouseButton(), mouseClicked, mousePressed(), and mouseRealeased(). Most of these functions will account for the drawing pad in my canvas, whilst the 'mousePressed()' will be the only function applied to the cute icons.
+In terms of interactivity, the interactive elements will comprise of mouse functions which involves mouseButton(), mouseClicked, mousePressed(), and mouseRealeased(). Most of these functions will account for the drawing pad in my canvas, whilst the 'mousePressed()' will be the only function applied to the cute icons. The user will be able to draw in the small notepad and click on the icons that will trigger a chatter sound.
 
 3. Enlist some feedback on your ideas from a colleague. Ask them, for each of your examples above:
    how well did you achieve a cute aesthetic?
