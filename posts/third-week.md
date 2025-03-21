@@ -13,7 +13,7 @@ allow_math: true
    sonically
    interactively
 
-2. With regard to your AT1, and using embedded p5 sketches, explain how you plan on achieving the aesthetic register of cute:
+2. With regard to your AT1,explain how you plan on achieving the aesthetic register of cute:
 
 **- visually**
 
@@ -31,3 +31,9 @@ In terms of interactivity, the interactive elements will comprise of mouse funct
    how well did you achieve a cute aesthetic?
    what could you try to increase the cuteness?
    how might you use implement these improvements using javascript?
+
+
+
+---
+## Assignment progress
+---
