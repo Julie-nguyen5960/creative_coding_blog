@@ -5,7 +5,7 @@ snippet: Developing ideas!
 disable_html_sanitization: true
 allow_math: true
 ---
-
+---
 # Homework task 3a
 
 1. Revisit the work of Rafael RozendaalLinks to an external site.. Choose another, different piece, and describe how he achieves a cute aesthetic register:
