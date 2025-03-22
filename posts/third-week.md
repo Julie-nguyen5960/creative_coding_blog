@@ -1,6 +1,6 @@
 ---
 title: Week 3
-published_at: 2025-03-00
+published_at: 2025-03-22
 snippet: Developing ideas!
 disable_html_sanitization: true
 allow_math: true
@@ -112,7 +112,7 @@ Even though I have not used classes in my code, I plan to use it once I written 
 
     const iframe  = document.getElementById (`assignment1`)
     iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
+    iframe.height = iframe.width * 9 / 20 + 80
 
 
 ---
