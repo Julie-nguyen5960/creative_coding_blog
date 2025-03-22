@@ -112,9 +112,12 @@ Even though I have not used classes in my code, I plan to use it once I written 
 
     const iframe  = document.getElementById (`assignment1`)
     iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 20 + 80
+    iframe.height = iframe.width * 9 / 16 + 42
 
+</script>
 
 ---
 ## Assignment progress
 ---
+
+jkfjksdjl
