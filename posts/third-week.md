@@ -53,6 +53,8 @@ In terms of interactivity, the interactive elements will comprise of mouse funct
 
 **how your AT1 will use each of the following concepts:**
 
+![code](Pictures/ss5.png)
+
 **1. variables**
 - Empty objects that represents values; holder of data or functions
 
