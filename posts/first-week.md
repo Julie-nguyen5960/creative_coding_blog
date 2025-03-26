@@ -5,9 +5,9 @@ snippet: Documentation of My Introduction to Coding!
 disable_html_sanitization: true
 allow_math: true
 ---
-[Read Week 2](second-week)
+[Read Week 2](/second-week)
 
-[Read Week 3](third-week)
+[Read Week 3](/third-week)
 
 ---
 # Homework task 1a
