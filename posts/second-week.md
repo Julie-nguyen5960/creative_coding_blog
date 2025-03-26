@@ -5,9 +5,9 @@ snippet: Slowly easing my way into Coding!
 disable_html_sanitization: true
 allow_math: true
 ---
-[Read Post 1](./first-week.md)
+[Read Week 1](./first-week.md)
 
-[Read Post 3](./third-week.md)
+[Read Week 3](./third-week.md)
 
 ---
 # Homework task 2a
@@ -171,3 +171,18 @@ For the third part of this homework, we were assigned to analyse the code for th
 - P5.js References
 - P5.js Tutorials
 - The Coding Train (YouTube)
+
+---
+**What I learnt this week:**
+1. The cute aesthetic register
+
+ This aesthetic refers to the use of certain features that make an object or character appear 'cute' to the general audience. Popular examples included Hello Kitty, The sanrio characters, ShinChan, Astro Boy, Chiikawa and many more. All of these lie within the 'kawaii culture' that is both profitable and massly produced nowadays. There also included two other aesthetic registers such as zany and interesting which I have briefly read upon from the Ngai's journal article.
+
+![chiikawa and group](Pictures/chiikawa.png)
+
+
+ 2. Kindred spirit
+
+ This was a topic that I did not have a clear idea on but this week's class clarified this concept for me. This information was streamlined to a much more simpler explaination of a 'sidekick' or a 'special person/object that comforts or confides in you.' The examples provided comprised of Frodo and Sam, Marlon and Dory. A prevalent example that stood out to me is Gojo and Geto because of how they cemented their longtime friendship despite becoming enemies. They still shared the same love they had for each other in the past. 
+
+![geto and gojo](Pictures/gojogetoomgpls.png)
