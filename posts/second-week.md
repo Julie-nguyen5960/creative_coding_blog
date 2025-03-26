@@ -5,7 +5,11 @@ snippet: Slowly easing my way into Coding!
 disable_html_sanitization: true
 allow_math: true
 ---
+[Read Post 1](./first-week.md)
 
+[Read Post 3](./third-week.md)
+
+---
 # Homework task 2a
 
 **♦ cute visuals-**

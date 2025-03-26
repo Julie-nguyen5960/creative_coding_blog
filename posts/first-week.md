@@ -5,7 +5,11 @@ snippet: Documentation of My Introduction to Coding!
 disable_html_sanitization: true
 allow_math: true
 ---
+[Read Post 2](./second-week.md)
 
+[Read Post 3](./third-week.md)
+
+---
 # Homework task 1a
 
 This is my first time touching code, so I find myself struggling to understand anything and becoming overwhelmed with this new language. Upon looking at the homework tasks, I found it jarring to look at all the lines of code for this [sketch](https://editor.p5js.org/capogreco/sketches/-B11g3Uth). So rather than attempting to create the grid, I tried dissecting the code for this sketch through the help of my friend and my little brother who are more experienced in coding.

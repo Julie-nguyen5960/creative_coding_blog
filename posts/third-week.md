@@ -1,10 +1,15 @@
 ---
 title: Week 3
-published_at: 2025-03-22
+published_at: 2025-03-26
 snippet: Developing ideas!
 disable_html_sanitization: true
 allow_math: true
 ---
+---
+[Read Week 1](./first-week.md)
+
+[Read Week 2](./second-week.md)
+
 ---
 # Homework task 3a
 
@@ -108,7 +113,20 @@ Even though I have not used classes in my code, I plan to use it once I written 
 
    The things I have struggled the most was trying to find resources that would help me in coding more complicated functions. Debugging was also something I struggled with, even when the console.log would alert me where the issue lies. It is usually an issue that also lies elsewhere that affects that part of the code. Sometimes, I struggle to understand what some operands are doing to the code so it takes me longer to digest what is going on in the code.  
 
- <iframe id="assignment1" src="https://editor.p5js.org/Julie-nguyen5960/full/yXEZpTcyF"></iframe>
+<iframe id="at1draft" src="https://editor.p5js.org/Julie-nguyen5960/full/yXEZpTcyF"></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`at1`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
+---
+## Assignment 1 results
+
+<iframe id="assignment1" src="https://editor.p5js.org/Julie-nguyen5960/full/63m6BTvxX"></iframe>
 
 <script type="module">
 
@@ -118,8 +136,4 @@ Even though I have not used classes in my code, I plan to use it once I written 
 
 </script>
 
----
-## Assignment progress
----
-
-jkfjksdjl
+fjhkfabjkfadbjkabf
