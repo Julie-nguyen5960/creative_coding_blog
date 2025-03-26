@@ -6,9 +6,9 @@ disable_html_sanitization: true
 allow_math: true
 ---
 ---
-[Read Week 1](./first-week.md)
+[Read Week 1](first-week.md)
 
-[Read Week 2](./second-week.md)
+[Read Week 2](second-week.md)
 
 # Homework task 3a
 

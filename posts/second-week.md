@@ -5,9 +5,9 @@ snippet: Slowly easing my way into Coding!
 disable_html_sanitization: true
 allow_math: true
 ---
-[Read Week 1](./first-week.md)
+[Read Week 1](first-week.md)
 
-[Read Week 3](./third-week.md)
+[Read Week 3](third-week.md)
 
 ---
 # Homework task 2a
@@ -55,7 +55,7 @@ In order to create cute interactions, the cute characters have to be interactive
 - (All these P5.js sketches are just there to let me have a grasp at the functions)
 ---
 # Homework task 2b
-Based on the description of a 'kindred spirit,' my mind gravitated toward my best friend who guided me on the path of self-discovery and served as a positive influence in my life. Our dynamic has changed alot over the past years; at first, I was the reserved, quiet friend whilst she was the outgoing and loud friend. Now, we are more open with each other since she has tuaght me to not be unashamed of who I am. It felt like a miracle to meet someone with so much in common, especially when we shared the same hobbies, interests, and sense of adventure. She was there when I had no one else to share my interest in anime with, encouraged me when I felt down, and gave me a positive outlook on life.
+Based on the description of a <mark>'kindred spirit,'</mark> my mind gravitated toward my best friend who guided me on the path of self-discovery and served as a positive influence in my life. Our dynamic has changed alot over the past years; at first, I was the reserved, quiet friend whilst she was the outgoing and loud friend. Now, we are more open with each other since she has tuaght me to not be unashamed of who I am. It felt like a miracle to meet someone with so much in common, especially when we shared the same hobbies, interests, and sense of adventure. She was there when I had no one else to share my interest in anime with, encouraged me when I felt down, and gave me a positive outlook on life.
 
 1.
 
@@ -185,4 +185,4 @@ For the third part of this homework, we were assigned to analyse the code for th
 
  This was a topic that I did not have a clear idea on but this week's class clarified this concept for me. This information was streamlined to a much more simpler explaination of a 'sidekick' or a 'special person/object that comforts or confides in you.' The examples provided comprised of Frodo and Sam, Marlon and Dory. A prevalent example that stood out to me is Gojo and Geto because of how they cemented their longtime friendship despite becoming enemies. They still shared the same love they had for each other in the past. 
 
-![geto and gojo](Pictures/gojogetoomgpls.png)
+![geto and gojo](Pictures/gego.jpg)
