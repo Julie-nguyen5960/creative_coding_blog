@@ -131,15 +131,11 @@ The things I have struggled the most was trying to find resources that would hel
 
 </script>
 
-
-
 ## Assignment 1 reflection
 
 Considering that this was my first time coding, I would say that this was a humbling experience and made me admire programmers much more for their ability to dissect code and create code out of nothing. It was difficult to learn all these different functions and operands within a short time span, but as I worked on this project more, I slowly gained a better understanding how to structure my code and this affected my P5.js sketch. I had the most fun when I started seeing my p5.js Sketch come to together from its cute visuals and the mouse interactions coming to life. I did need some help with different parts of code with the use of ChatGPT as it was difficult for me to trigger mouse interactions without any prior knowledge. Though I was happy to learn how to insert images and videos from other P5.js sketches I have found online.
 
 Overall, I am pleased with how my P5.js sketch turned out especially with the many aspects such as the randomly generated pastel coloured background, the mouse interactions that allows you to draw on the canvas and tap on the characters. 
-
-
 
 <iframe id="assignment1" src="https://editor.p5js.org/Julie-nguyen5960/full/63m6BTvxX"></iframe>
 
