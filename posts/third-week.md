@@ -5,10 +5,11 @@ snippet: Developing ideas!
 disable_html_sanitization: true
 allow_math: true
 ---
----
-[Read Week 1](first-week.md)
 
-[Read Week 2](second-week.md)
+[Read Week 1](/first-week)
+
+[Read Week 2](/second-week)
+---
 
 # Homework task 3a
 
