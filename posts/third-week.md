@@ -5,12 +5,10 @@ snippet: Developing ideas!
 disable_html_sanitization: true
 allow_math: true
 ---
+[Read Week 1](first-week)
 
-[Read Week 1](/first-week)
-
-[Read Week 2](/second-week)
+[Read Week 2](second-week)
 ---
-
 # Homework task 3a
 
 **1. Describe how Rafael Rozendaal achieves a cute aesthetic register in artwork 'Passing':**
