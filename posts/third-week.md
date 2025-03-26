@@ -6,6 +6,9 @@ disable_html_sanitization: true
 allow_math: true
 ---
 ---
+[Read Week 1](./first-week.md)
+
+[Read Week 2](./second-week.md)
 
 # Homework task 3a
 
@@ -141,8 +144,4 @@ The things I have struggled the most was trying to find resources that would hel
 
 </script>
 
----
-## Assignment progress
----
 
-jkfjksdjl
