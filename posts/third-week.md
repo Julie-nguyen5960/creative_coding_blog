@@ -147,6 +147,8 @@ Overall, I am pleased with how my P5.js sketch turned out especially with the ma
 
 </script>
 
+[Assignment 1 full sketch](https://editor.p5js.org/Julie-nguyen5960/full/63m6BTvxX)
+
 ---
 **What I learnt this week:**
 
