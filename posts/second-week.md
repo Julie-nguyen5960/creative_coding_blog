@@ -18,7 +18,7 @@ allow_math: true
 
 **♦ cute sounds-**
 
- I think what makes a sound 'cute,' it is usually short, simple and quick. It also consists of a lighter sound, and is higher in pitch just like how Alvin and the Chipmunks covers and nightcore were popular back then. Most tiktok songs are sped-up songs whilst also adjusting the pitch to make the song sound more 'cute.' There are instances where Anime characters try to appear cute sounds through small breath sounds and unique eating sounds. In order to implement sounds into the sketch, I will need to use the functions of function setup(), loadSound() and let playing = false;.
+ I think what makes a sound 'cute,' it is usually short, simple and quick. It also consists of a lighter sound, and is higher in pitch just like how Alvin and the Chipmunks covers and nightcore were popular back then. Most tiktok songs are sped-up songs whilst also adjusting the pitch to make the song sound more 'cute.' Various cute sounds imply playful,bubbly and bouncy qualities. In order to implement sounds into the sketch, I will need to use the functions of function setup(), loadSound() and let playing = false;.
 
  <iframe id="cute audio" src="https://editor.p5js.org/Julie-nguyen5960/full/i7ap2cpxO"></iframe>
 
@@ -52,7 +52,7 @@ In order to create cute interactions, the cute characters have to be interactive
 </script>
 - [Gojo plush render](https://www.deviantart.com/marcopolo157/art/Gojo-Ball-Plush-Render-PNG-JJK-1047244907)
 
-- (All these P5.js sketches are just there to let me have a grasp at the functions)
+(All these P5.js sketches are just there to let me have a grasp at the functions)
 ---
 # Homework task 2b
 Based on the description of a <mark>'kindred spirit,'</mark> my mind gravitated toward my best friend who guided me on the path of self-discovery and served as a positive influence in my life. Our dynamic has changed alot over the past years; at first, I was the reserved, quiet friend whilst she was the outgoing and loud friend. Now, we are more open with each other since she has tuaght me to not be unashamed of who I am. It felt like a miracle to meet someone with so much in common, especially when we shared the same hobbies, interests, and sense of adventure. She was there when I had no one else to share my interest in anime with, encouraged me when I felt down, and gave me a positive outlook on life.

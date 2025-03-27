@@ -60,7 +60,7 @@ On the other hand, I picked the piece 'Blocks,' and we proceeded to hypothesize 
 
 
 
-The concepts that she has provided in order to replicate such work included:
+**The concepts that she has provided in order to replicate such work included:**
 
 - Rect() and square()
 - Fill (), stroke(), color(), and lerpColor().

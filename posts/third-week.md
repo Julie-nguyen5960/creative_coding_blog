@@ -8,6 +8,7 @@ allow_math: true
 [Read Week 1](first-week)
 
 [Read Week 2](second-week)
+
 ---
 # Homework task 3a
 
@@ -15,7 +16,7 @@ allow_math: true
 
 - visually
 
-He uses a variety of bright colours that is complimentary to the other colours. When I look at this piece, I perceive those little squares as little people passing by or walking in a path which I think is adorable.
+He uses a variety of bright colours that is complimentary to the other colours. When I look at this piece, I perceive those little squares as little people passing by or walking in a path which I think is adorable. The brighter colour palette expresses the bouncy and cheerful nature of 'passing' which aids in the cute aesthetic register. 
 
 - sonically
 
