@@ -119,7 +119,7 @@ The aspect I enjoyed the most was seeing the images I coded appear on the canvas
 
 **4. what aspects have you struggled with the most? What have you found the most confusing?**
 
-The things I have struggled the most was trying to find resources that would help me in coding more complicated functions. Debugging was also something I struggled with, even when the console.log would alert me where the issue lies. It is usually an issue that also lies elsewhere that affects that part of the code. Sometimes, I struggle to understand what some operands are doing to the code so it takes me longer to digest what is going on in the code.
+The things I have struggled with the most was trying to find resources that would help me in coding more complicated functions. Debugging was also something I struggled with, even when the console.log would alert me where the issue lies. It is usually an issue that also lies elsewhere that affects that part of the code. Sometimes, I struggle to understand what some operands are doing to the code so it takes me longer to digest what is going on in the code.
 
 <iframe id="at1draft" src="https://editor.p5js.org/Julie-nguyen5960/full/yXEZpTcyF"></iframe>
 
