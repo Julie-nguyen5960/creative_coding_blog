@@ -1,6 +1,6 @@
 ---
 title: Week 5
-published_at: 2025-03-00
+published_at: 2025-04-00
 snippet: Documentation of My Introduction to Coding!
 disable_html_sanitization: true
 allow_math: true
@@ -31,6 +31,3 @@ allow_math: true
 
 2. what technology are they using to produce their work? 
 - Hypothetically, if they were using javascript, what APIs & libraries could they use?
-
-
-3. use RiTa.jsLinks to an external site. to generate a post-digital poem responding to the work in your blog.

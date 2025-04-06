@@ -18,7 +18,7 @@ allow_math: true
 
 Please use either Canvas API or the p5 online editor to create three example compositions, demonstrating:
 
-1. high compressibility
+**1. high compressibility**
 
 - A sketch that appears more orderly and contains more organised patterns, Make the code more reusable for these objects and compress it into a smaller codes.
 <iframe id="pattern" src="https://editor.p5js.org/Julie-nguyen5960/full/CGCNsdsWp"></iframe>
@@ -31,7 +31,7 @@ Please use either Canvas API or the p5 online editor to create three example com
 
 </script>
 
-2. low compressibility
+**2. low compressibility**
 
 - A sketch where most things are out of order and random, which makes the code harder to compress due to the different attributes of each object.
 
@@ -47,15 +47,32 @@ Please use either Canvas API or the p5 online editor to create three example com
 
 _Tutorial from [The Coding Train](https://www.youtube.com/watch?v=nfmV2kuQKwA)_
 
-3. high effective complexity
+**3. high effective complexity**
 
 - A sketch where it blends the two, high compressibility and low compressibility. It will contain some structure whilst having some random elements.
+
+<iframe id="high effective" src="https://editor.p5js.org/Julie-nguyen5960/full/gjyAP1-Vh"></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`high effective`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
+_Tutorial from [UAL: University of the Arts London](https://www.arts.ac.uk/partnerships/outreach/insights/how-to/challenges/challenges-creative-coding)_
 
 In his paper, What is Generative Art: Complexity Theory as a Context for Art TheoryLinks to an external site. (2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. " Why might this be useful for the purposes of making generative art?
 
 - Embed and refer to the three examples created above to support your explanation.
 
+Structure being subjective to the eye of the beholder allows for more individuals to become more experimental when making generative art. Personally, structures would be defined as a recognizable shape or silhoutte in an artwork in which the audience are able to discern. With the high compressibility sketch, it is a canvas filled with structured tiles of simple squares that is much easier to decipher the scructure compared to the other two that lack a clear structure. The sketch for low compressibility and high effective complexity contains shapes that duplicate in random places which becomes more chaotic and messy.
+
 - In your third example, what concepts and code are responsible for creating structure, in this sense?
+
+For the third sketch, the concepts that were responsible for creating structure were the rect() and circle() functions. Within the function draw(), the code prompts the circles to be drawn at the mouse position with a diameter of 50, and the fill colour to red using the RGB values. The rectangles have similar attributes to the circles, instead they are coloured blue. These structures create a cohesive shape with how chaotic the p5.js sketch becomes once you drag your mouse around.  
+
 
 ## Sabato Visconti
 
@@ -67,7 +84,7 @@ In his paper, What is Generative Art: Complexity Theory as a Context for Art The
 
 # Homework task 4b
 
-Use techniques from GlitchLinks to an external site., or Pixel SortLinks to an external site., or both, to render a self-portrait on your blog.
+Use techniques from GlitchLinks to an external site., or Pixel SortLinks to an external site., or both, to render a self-portrait on your blog. 
 
 - show your commented code in a syntax-highlighted code-block
 
