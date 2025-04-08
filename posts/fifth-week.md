@@ -52,3 +52,16 @@ Hypothetically, if they were using javascript, what APIs & libraries could they 
 
 
 3. use RiTa.jsLinks to an external site. to generate a post-digital poem responding to the work in your blog.
+
+---
+# Homework 5b
+
+1. pick a three.js example from hereLinks to an external site., and implement it directly in your blog.
+
+- Pay close attention to the import statements - there will most likely be a bunch of javascript assets you will need to wrangle, either from a CDNLinks to an external site., or your static folder
+
+
+2. consider the above piece of glitch art by Sabato ViscontiLinks to an external site. ^
+
+- what does having the 3D form glitch out like this do in terms of aesthetic register, and effective complexity?
+- how do you think it works, under the hood?
