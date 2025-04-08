@@ -12,11 +12,13 @@ allow_math: true
 
 [Read Week 3](/third-week)
 
+[Read Week 4](/fourth-week)
+
 ---
 
 # Homework task 4a
 
-Please use either Canvas API or the p5 online editor to create three example compositions, demonstrating:
+###  1. Please use either Canvas API or the p5 online editor to create three example compositions, demonstrating:
 
 **1. high compressibility**
 
@@ -63,7 +65,7 @@ _Tutorial from [The Coding Train](https://www.youtube.com/watch?v=nfmV2kuQKwA)_
 
 _Tutorial from [UAL: University of the Arts London](https://www.arts.ac.uk/partnerships/outreach/insights/how-to/challenges/challenges-creative-coding)_
 
-In his paper, What is Generative Art: Complexity Theory as a Context for Art TheoryLinks to an external site. (2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. " Why might this be useful for the purposes of making generative art?
+### 2. In his paper, What is Generative Art: Complexity Theory as a Context for Art Theory(2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. " Why might this be useful for the purposes of making generative art?
 
 - Embed and refer to the three examples created above to support your explanation.
 
@@ -84,7 +86,7 @@ For the third sketch, the concepts that were responsible for creating structure 
 
 # Homework task 4b
 
-Use techniques from GlitchLinks to an external site., or Pixel SortLinks to an external site., or both, to render a self-portrait on your blog. 
+### 1. Use techniques from Glitch, or Pixel , or both, to render a self-portrait on your blog. 
 
 <canvas id="glitch_self_portrait"></canvas>
 
@@ -108,11 +110,12 @@ Use techniques from GlitchLinks to an external site., or Pixel SortLinks to an e
       img_data = cnv.toDataURL ("image/jpeg")
       add_glitch ()
    }
-   img.src = `/Pictures/joolieie.JPG`
+   img.src = `/Pictures/joolieie.JPG` //my selfie
 
-   const rand_int = max => Math.floor (Math.random () * max)
+   const rand_int = max => Math.floor (Math.random () * max) 
 
-   const glitchify = (data, chunk_max, repeats) => {
+// creates glitchy effect by taking random chunks of characters from base64 encoded image
+   const glitchify = (data, chunk_max, repeats) => { 
       const chunk_size = rand_int (chunk_max / 4) * 4
       const i = rand_int (data.length - 24 - chunk_size) + 24
       const front = data.slice (0, i)
@@ -121,6 +124,7 @@ Use techniques from GlitchLinks to an external site., or Pixel SortLinks to an e
       return repeats == 0 ? result : glitchify (result, chunk_max, repeats - 1)
    }
 
+//builds array of 12 pre-generated, randomly-glitched images
    const glitch_arr = []
 
    const add_glitch = () => {
@@ -132,7 +136,7 @@ Use techniques from GlitchLinks to an external site., or Pixel SortLinks to an e
       }
       i.src = glitchify (img_data, 96, 6)
    }
-
+// boolean where false shows non-glitched image whereas true will show glitch
    let is_glitching = false
    let glitch_i = 0
 
@@ -146,18 +150,27 @@ Use techniques from GlitchLinks to an external site., or Pixel SortLinks to an e
          is_glitching = !is_glitching
       }
 
-      requestAnimationFrame (draw_frame)
+      requestAnimationFrame (draw_frame)   
    }
 
 </script>
 
 
+### 2. How does rendering your likeness in this way affect its aesthetic register? In your discussion, please refer to:
 
-- show your commented code in a syntax-highlighted code-block
+One or more readings from "Glitch Readings"
 
-How does rendering your likeness in this way affect its aesthetic register? In your discussion, please refer to:
+- I
 
-- one or more readings from "Glitch Readings"
-- one or more readings from "Net Art Readings"
-- the concept of effective complexity
-- Ngai's three aesthetic registers
+
+One or more readings from "Net Art Readings"
+
+- I
+
+The concept of effective complexity
+
+- I think of the self-portrait as the structure of the image whilst the glitchy effects are the low compressibility elements that create the chaos within the piece. Through the blend of high and low compressibility elements, it creates an effective piece that reflects complexity. 
+
+Ngai's three aesthetic registers
+
+- In terms of Ngai's three aesthetic registers, the chaotic nature of the self-portrait lies more into the zany aesthetic compared to the cute or interesting aesthetic. Ngai desribes the zany nature as manic and chaotic and is an aesthetic common in comedy. It creates a sense of chaos and overwhelming emotions when watching all these glitch effect unfold. 

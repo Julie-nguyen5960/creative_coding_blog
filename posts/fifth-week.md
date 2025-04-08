@@ -1,6 +1,6 @@
 ---
 title: Week 5
-published_at: 2025-04-00
+published_at: 2025-04-10
 snippet: Documentation of My Introduction to Coding!
 disable_html_sanitization: true
 allow_math: true
@@ -47,6 +47,7 @@ allow_math: true
 
 Hypothetically, if they were using javascript, what APIs & libraries could they use?
 - Web Animations API
+- WebGL
 - P5js
 - PixiJS
 
@@ -61,7 +62,23 @@ Hypothetically, if they were using javascript, what APIs & libraries could they 
 - Pay close attention to the import statements - there will most likely be a bunch of javascript assets you will need to wrangle, either from a CDNLinks to an external site., or your static folder
 
 
-2. consider the above piece of glitch art by Sabato ViscontiLinks to an external site. ^
+2. consider the  piece of glitch art below by Sabato Visconti
 
-- what does having the 3D form glitch out like this do in terms of aesthetic register, and effective complexity?
-- how do you think it works, under the hood?
+![flower](Pictures/flower.gif)
+
+What does having the 3D form glitch out like this do in terms of aesthetic register, and effective complexity?
+
+- For the aesthetic register, this would appeal more to zany and the interesting aesthetic due to its chaotic yet complex nature. Whilst this glitch art is chaotic with its glitchy effects, it also transforms into interesting shapes that keeps engagement up.
+
+- As for effective complexity, it works well in establishing structure which is the black rose, but it quickly transforms into unrecognisable shapes or reduces its polygons from the 3D model.
+
+
+How do you think it works, under the hood?
+
+- I think the animations was achieved using WebGL since it allows for 3D model renders and is able to run on the web browser.
+
+- I'm guessing they had to preload the 3D model into the code, create code for it to rotate and ensure that glitches/distortions occur at certain intervals. 
+
+- Create new images for each phases of distortions??
+
+- Not sure specifically what code they would use to rotate.
