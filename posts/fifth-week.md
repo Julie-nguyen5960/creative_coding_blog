@@ -45,7 +45,7 @@ allow_math: true
 - P5.js 
 - Javascript 
 
-Hypothetically, if they were using javascript, what APIs & libraries could they use?
+**Hypothetically, if they were using javascript, what APIs & libraries could they use?**
 - Web Animations API
 - WebGL
 - P5js
@@ -66,7 +66,7 @@ Hypothetically, if they were using javascript, what APIs & libraries could they 
 
 ![flower](Pictures/flower.gif)
 
-What does having the 3D form glitch out like this do in terms of aesthetic register, and effective complexity?
+**What does having the 3D form glitch out like this do in terms of aesthetic register, and effective complexity?**
 
 - For the aesthetic register, this would appeal more to zany and the interesting aesthetic due to its chaotic yet complex nature. Whilst this glitch art is chaotic with its glitchy effects, it also transforms into interesting shapes that keeps engagement up.
 

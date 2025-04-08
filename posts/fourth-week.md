@@ -65,15 +65,15 @@ _Tutorial from [The Coding Train](https://www.youtube.com/watch?v=nfmV2kuQKwA)_
 
 _Tutorial from [UAL: University of the Arts London](https://www.arts.ac.uk/partnerships/outreach/insights/how-to/challenges/challenges-creative-coding)_
 
-### 2. In his paper, What is Generative Art: Complexity Theory as a Context for Art Theory(2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. " Why might this be useful for the purposes of making generative art?
+ ### 2. In his paper, What is Generative Art: Complexity Theory as a Context for Art Theory(2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. " Why might this be useful for the purposes of making generative art?**
 
-- Embed and refer to the three examples created above to support your explanation.
+**Embed and refer to the three examples created above to support your explanation.**
 
-Structure being subjective to the eye of the beholder allows for more individuals to become more experimental when making generative art. Personally, structures would be defined as a recognizable shape or silhoutte in an artwork in which the audience are able to discern. With the high compressibility sketch, it is a canvas filled with structured tiles of simple squares that is much easier to decipher the scructure compared to the other two that lack a clear structure. The sketch for low compressibility and high effective complexity contains shapes that duplicate in random places which becomes more chaotic and messy.
+- Structure being subjective to the eye of the beholder allows for more individuals to become more experimental when making generative art. Personally, structures would be defined as a recognizable shape or silhoutte in an artwork in which the audience are able to discern. With the high compressibility sketch, it is a canvas filled with structured tiles of simple squares that is much easier to decipher the scructure compared to the other two that lack a clear structure. The sketch for low compressibility and high effective complexity contains shapes that duplicate in random places which becomes more chaotic and messy.
 
-- In your third example, what concepts and code are responsible for creating structure, in this sense?
+**In your third example, what concepts and code are responsible for creating structure, in this sense?**
 
-For the third sketch, the concepts that were responsible for creating structure were the rect() and circle() functions. Within the function draw(), the code prompts the circles to be drawn at the mouse position with a diameter of 50, and the fill colour to red using the RGB values. The rectangles have similar attributes to the circles, instead they are coloured blue. These structures create a cohesive shape with how chaotic the p5.js sketch becomes once you drag your mouse around.  
+- For the third sketch, the concepts that were responsible for creating structure were the rect() and circle() functions. Within the function draw(), the code prompts the circles to be drawn at the mouse position with a diameter of 50, and the fill colour to red using the RGB values. The rectangles have similar attributes to the circles, instead they are coloured blue. These structures create a cohesive shape with how chaotic the p5.js sketch becomes once you drag your mouse around.  
 
 
 ## Sabato Visconti
@@ -158,19 +158,19 @@ For the third sketch, the concepts that were responsible for creating structure 
 
 ### 2. How does rendering your likeness in this way affect its aesthetic register? In your discussion, please refer to:
 
-One or more readings from "Glitch Readings"
+**One or more readings from "Glitch Readings"**
 
 - I
 
 
-One or more readings from "Net Art Readings"
+**One or more readings from "Net Art Readings"**
 
 - I
 
-The concept of effective complexity
+**The concept of effective complexity**
 
 - I think of the self-portrait as the structure of the image whilst the glitchy effects are the low compressibility elements that create the chaos within the piece. Through the blend of high and low compressibility elements, it creates an effective piece that reflects complexity. 
 
-Ngai's three aesthetic registers
+**Ngai's three aesthetic registers**
 
 - In terms of Ngai's three aesthetic registers, the chaotic nature of the self-portrait lies more into the zany aesthetic compared to the cute or interesting aesthetic. Ngai desribes the zany nature as manic and chaotic and is an aesthetic common in comedy. It creates a sense of chaos and overwhelming emotions when watching all these glitch effect unfold. 
