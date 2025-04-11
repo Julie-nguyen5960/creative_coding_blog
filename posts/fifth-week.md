@@ -37,7 +37,7 @@ allow_math: true
 
 **"Gazers"**- An artful interpretation of the moon phases that utilises cool colours and implements a hazy glitch effect, in which overlays the moon encased in a lattice box.
 
-- According to Florian Cramer's 'What is post-digital' essay, she defines it as the "messy state of media, arts and design after their digitisation" and I believe that Matt Kane is a perfect example as a post-digital artist. This artist's produces all his generative artworks digitally, using p5.js to create the glitch effect. I've noticed that the artist tends to put the hashtag of #cryptoart or #nftart which reflects a shift transcending the analog era of art.
+- According to Florian Cramer's 'What is post-digital' essay, she defines it as the "messy state of media, arts and design after their digitisation" and I believe that Matt Kane is a perfect example as a post-digital artist. This artist produces all his generative artworks digitally, using p5.js to create the glitch effect. I've noticed that the artist tends to put the hashtag of #cryptoart or #nftart which reflects a shift transcending the analog era of art.
 
 **2. what technology are they using to produce their work?**
 
