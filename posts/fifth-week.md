@@ -1,7 +1,7 @@
 ---
 title: Week 5
 published_at: 2025-04-10
-snippet: Documentation of My Introduction to Coding!
+snippet: more coding
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -26,8 +26,8 @@ allow_math: true
 </script>
 
 ---
-# Homework 5a
 
+# Homework 5a
 
 **1. Choose a specific work from a post-digital artist and describe it, referring to Florian Cramer's essay What is Post-Digital? to justify why you think this artist classifies as post-digital.**
 
@@ -35,34 +35,33 @@ allow_math: true
 
 ![matt kane art](Pictures/matt.png)
 
-**"Gazers"**-  An artful interpretation of the moon phases that utilises cool colours and implements a hazy glitch effect, in which overlays the moon encased in a lattice box. 
+**"Gazers"**- An artful interpretation of the moon phases that utilises cool colours and implements a hazy glitch effect, in which overlays the moon encased in a lattice box.
 
 - According to Florian Cramer's 'What is post-digital' essay, she defines it as the "messy state of media, arts and design after their digitisation" and I believe that Matt Kane is a perfect example as a post-digital artist. This artist's produces all his generative artworks digitally, using p5.js to create the glitch effect. I've noticed that the artist tends to put the hashtag of #cryptoart or #nftart which reflects a shift transcending the analog era of art.
 
-
 **2. what technology are they using to produce their work?**
 
-- P5.js 
-- Javascript 
+- P5.js
+- Javascript
 
 **Hypothetically, if they were using javascript, what APIs & libraries could they use?**
+
 - Web Animations API
 - WebGL
 - P5js
 - PixiJS
 
-
 **3. use RiTa.jsLinks to an external site. to generate a post-digital poem responding to the work in your blog.**
 
 ---
+
 # Homework 5b
 
 **1. pick a three.js example from hereLinks to an external site., and implement it directly in your blog.**
 
 - Pay close attention to the import statements - there will most likely be a bunch of javascript assets you will need to wrangle, either from a CDNLinks to an external site., or your static folder
 
-
-2. consider the  piece of glitch art below by Sabato Visconti
+2. consider the piece of glitch art below by Sabato Visconti
 
 ![flower](Pictures/flower.gif)
 
@@ -72,12 +71,11 @@ allow_math: true
 
 - As for effective complexity, it works well in establishing structure which is the black rose, but it quickly transforms into unrecognisable shapes or reduces its polygons from the 3D model.
 
-
 **How do you think it works, under the hood?**
 
 - I think the animations was achieved using WebGL since it allows for 3D model renders and is able to run on the web browser.
 
-- I'm guessing they had to preload the 3D model into the code, create code for it to rotate and ensure that glitches/distortions occur at certain intervals. 
+- I'm guessing they had to preload the 3D model into the code, create code for it to rotate and ensure that glitches/distortions occur at certain intervals.
 
 - Create new images for each phases of distortions??
 

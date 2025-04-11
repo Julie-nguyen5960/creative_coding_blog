@@ -6,19 +6,15 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-[Read Week 1](/first-week)
-
-[Read Week 2](/second-week)
-
 [Read Week 3](/third-week)
 
-[Read Week 4](/fourth-week)
+[Read Week 5](/fifth-week)
 
 ---
 
 # Homework task 4a
 
-###  1. Please use either Canvas API or the p5 online editor to create three example compositions, demonstrating:
+### 1. Please use either Canvas API or the p5 online editor to create three example compositions, demonstrating:
 
 **1. high compressibility**
 
@@ -65,7 +61,7 @@ _Tutorial from [The Coding Train](https://www.youtube.com/watch?v=nfmV2kuQKwA)_
 
 _Tutorial from [UAL: University of the Arts London](https://www.arts.ac.uk/partnerships/outreach/insights/how-to/challenges/challenges-creative-coding)_
 
- ### 2. In his paper, What is Generative Art: Complexity Theory as a Context for Art Theory(2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. " Why might this be useful for the purposes of making generative art?**
+### 2. In his paper, What is Generative Art: Complexity Theory as a Context for Art Theory(2003), Philip Galanter writes that " ... some maintain that this notion of structure is subjective and remains in the eye of the beholder. " Why might this be useful for the purposes of making generative art?\*\*
 
 **Embed and refer to the three examples created above to support your explanation.**
 
@@ -73,8 +69,7 @@ _Tutorial from [UAL: University of the Arts London](https://www.arts.ac.uk/partn
 
 **In your third example, what concepts and code are responsible for creating structure, in this sense?**
 
-- For the third sketch, the concepts that were responsible for creating structure were the rect() and circle() functions. Within the function draw(), the code prompts the circles to be drawn at the mouse position with a diameter of 50, and the fill colour to red using the RGB values. The rectangles have similar attributes to the circles, instead they are coloured blue. These structures create a cohesive shape with how chaotic the p5.js sketch becomes once you drag your mouse around.  
-
+- For the third sketch, the concepts that were responsible for creating structure were the rect() and circle() functions. Within the function draw(), the code prompts the circles to be drawn at the mouse position with a diameter of 50, and the fill colour to red using the RGB values. The rectangles have similar attributes to the circles, instead they are coloured blue. These structures create a cohesive shape with how chaotic the p5.js sketch becomes once you drag your mouse around.
 
 ## Sabato Visconti
 
@@ -86,7 +81,7 @@ _Tutorial from [UAL: University of the Arts London](https://www.arts.ac.uk/partn
 
 # Homework task 4b
 
-### 1. Use techniques from Glitch, or Pixel , or both, to render a self-portrait on your blog. 
+### 1. Use techniques from Glitch, or Pixel , or both, to render a self-portrait on your blog.
 
 <canvas id="glitch_self_portrait"></canvas>
 
@@ -155,22 +150,20 @@ _Tutorial from [UAL: University of the Arts London](https://www.arts.ac.uk/partn
 
 </script>
 
-
 ### 2. How does rendering your likeness in this way affect its aesthetic register? In your discussion, please refer to:
 
 **One or more readings from "Glitch Readings"**
 
-- I
-
+- While reading Nick Briz's ['Thoughts on Glitch Art v2.0'](https://rmit.instructure.com/courses/151099/files/44700503?module_item_id=7237235), I found it interesting that he stated that glitches are not caused by computers, but rather by human error. This effect tends to make us think that the computer has made a "mistake" and setting the illusion that the user experience has unexpectedly been disrupted. This sentiment applies well to the self-portrait since the jarring effects of the glitches causes the audience to feel that they are watching the computer make errors, when in actuality, it was done intentionally through code.
 
 **One or more readings from "Net Art Readings"**
 
-- I
+- According to Cary Wolfe's ['Reflections on Art and Posthumanism'](https://rmit.instructure.com/courses/151099/files/44705319?module_item_id=7237540), they state that posthumanism is a "humanist fantasy of our ability to make transparent to master and make transparent to ourselves our deep, intractable cultural and philosophical inheritances." Basically, it means that we are utilising the admirable aspects of humanity to create art as a way to represent our current reality and humanity. I would say that the self-portrait is a post-digital piece that utilises technology and other post-humanistic aspects that truly embodies our current time.
 
 **The concept of effective complexity**
 
-- I think of the self-portrait as the structure of the image whilst the glitchy effects are the low compressibility elements that create the chaos within the piece. Through the blend of high and low compressibility elements, it creates an effective piece that reflects complexity. 
+- I think of the self-portrait as the structure (high compressibility) of the piece whilst the glitchy effects are the low compressibility elements that create the chaos within the piece. Through the blend of high and low compressibility elements, it creates an effective piece that reflects complexity.
 
 **Ngai's three aesthetic registers**
 
-- In terms of Ngai's three aesthetic registers, the chaotic nature of the self-portrait lies more into the zany aesthetic compared to the cute or interesting aesthetic. Ngai desribes the zany nature as manic and chaotic and is an aesthetic common in comedy. It creates a sense of chaos and overwhelming emotions when watching all these glitch effect unfold. 
+- In terms of Ngai's three aesthetic registers, the chaotic nature of the self-portrait lies more into the zany aesthetic compared to the cute or interesting aesthetic. Ngai desribes the zany nature as manic and chaotic and is an aesthetic that is common in comedy. It creates a sense of chaos and overwhelming emotions when watching all these glitch effect unfold, especially in the self-portrait where all these glitches occur randomly which fits the zany aesthetic.
