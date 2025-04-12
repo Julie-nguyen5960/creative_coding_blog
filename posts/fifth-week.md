@@ -51,7 +51,13 @@ allow_math: true
 - P5js
 - PixiJS
 
-**3. use RiTa.jsLinks to an external site. to generate a post-digital poem responding to the work in your blog.**
+**3. use RiTa.js. to generate a post-digital poem responding to the work in your blog.**
+
+<script type="module">
+  import { RiTa } from "https://esm.sh/rita";
+  console.log (RiTa)
+</script>
+
 
 ---
 
@@ -152,7 +158,7 @@ allow_math: true
 
 		</script>
 
-2. consider the piece of glitch art below by Sabato Visconti
+**2. consider the piece of glitch art below by Sabato Visconti**
 
 ![flower](Pictures/flower.gif)
 
