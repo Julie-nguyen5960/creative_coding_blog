@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<script src="./p5.js"></script>
+<!-- <script src="./p5.js"></script>
 
 <canvas id="assignment1"></canvas>
 
@@ -23,7 +23,7 @@ allow_math: true
         background (`turquoise`)
         console.log (frameCount)
     }
-</script>
+</script> -->
 
 ---
 
@@ -53,11 +53,10 @@ allow_math: true
 
 **3. use RiTa.js. to generate a post-digital poem responding to the work in your blog.**
 
-<script type="module">
+<!-- <script type="module">
   import { RiTa } from "https://esm.sh/rita";
   console.log (RiTa)
-</script>
-
+</script> -->
 
 ---
 
@@ -67,7 +66,7 @@ allow_math: true
 
 - ['Littlest tokyo'](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042) by Glenatron
 
-<script type="module">
+<!-- <script type="module">
 
 			import * as THREE from 'three';
 
@@ -156,7 +155,7 @@ allow_math: true
 			}
 
 
-		</script>
+		</script> -->
 
 **2. consider the piece of glitch art below by Sabato Visconti**
 
