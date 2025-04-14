@@ -53,10 +53,12 @@ allow_math: true
 
 **3. use RiTa.js. to generate a post-digital poem responding to the work in your blog.**
 
-<!-- <script type="module">
+<script type="module">
   import { RiTa } from "https://esm.sh/rita";
   console.log (RiTa)
-</script> -->
+</script>
+
+
 
 ---
 
