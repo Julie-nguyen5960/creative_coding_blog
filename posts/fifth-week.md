@@ -56,9 +56,20 @@ allow_math: true
 <script type="module">
   import { RiTa } from "https://esm.sh/rita";
   console.log (RiTa)
+
+const template = "The [adjective] [noun] [verb] [adverb].";
+
+function generateSentence(): string {
+  return template
+    .replace("[adjective]", RiTa.randomWord({ pos: "jj" }))
+    .replace("[noun]", RiTa.randomWord({ pos: "nn" }))
+    .replace("[verb]", RiTa.randomWord({ pos: "vbz" }))
+    .replace("[adverb]", RiTa.randomWord({ pos: "rb" }));
+}
+
+console.log(generateSentence());
+
 </script>
-
-
 
 ---
 

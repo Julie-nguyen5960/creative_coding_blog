@@ -16,10 +16,9 @@ allow_math: true
 
 - **svg.js**- This library aims to be lightweight in manipulating and animating SVG (Scalable Vector Graphics).
 
-
 **In what ways are they different?**
 
-- All these JavaScript libraries differ in the art that they produce, q5.js is focused on animation and creative coding arts, while c2.js is focused more on geometric, motion graphics. Svg.js is a library that contexualises vector art through code. 
+- All these JavaScript libraries differ in the art that they produce, q5.js is focused on animation and creative coding arts, while c2.js is focused more on geometric, motion graphics. Svg.js is a library that contexualises vector art through code.
 
 **2. Can we use these libraries from within a javascript.? Explain why / why not.**
 
@@ -35,11 +34,14 @@ allow_math: true
 
 Information & Thinking by Michel Serres
 
+- Serres describes information as dynamic, messy and multi-directional, meaning information and knowledge is never linear. They believed that noise or disruption was a sign of creativity and could lead to transformation. Hermes (a messenger God) was a noteable example for the passing of knowledge, demonstrating its movement and how this communication was always in transit.
 
 What Is It Like to Be A Fungus? by Merlin Sheldrake
 
+- Sheldrake highlights the interconnectedness that Fungi form underground networks that support other plant life in which perfectly symbolises collaboration and symbosis. He also mentions the psychedelic fungi tends to challenge the minds and blurs the lines between reality and environment. Through this, Sheldrake contends that our understanding of fungi can shape our understanding towards nature and humanity.
 
-Xenofemenism: A Politics for Alienation by Laboria Cuboniks
+Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 
+- Laboria Cuboniks argues that the alienation that stems from technological advancements should be embraced and serves as an opportunity to abolish oppressive systems. It is a belief system that supports science and technology, in return, believes that something being 'natural' is not always good and should be modified for a better purpose.
 
 ---
