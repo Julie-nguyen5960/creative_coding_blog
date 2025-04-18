@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<!-- <script src="./p5.js"></script>
+<script src="./p5.js"></script>
 
 <canvas id="assignment1"></canvas>
 
@@ -23,7 +23,7 @@ allow_math: true
         background (`turquoise`)
         console.log (frameCount)
     }
-</script> -->
+</script>
 
 ---
 
@@ -53,23 +53,35 @@ allow_math: true
 
 **3. use RiTa.js. to generate a post-digital poem responding to the work in your blog.**
 
-<script type="module">
-  import { RiTa } from "https://esm.sh/rita";
-  console.log (RiTa)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RiTa Sentence Generator</title>
+</head>
+<body>
+  <h1>Random Sentence:</h1>
+  <p id="sentence">Generating...</p>
 
-const template = "The [adjective] [noun] [verb] [adverb].";
+  <script type="module">
+    import RiTa from "https://esm.sh/rita@2.0.2";
 
-function generateSentence(): string {
-  return template
-    .replace("[adjective]", RiTa.randomWord({ pos: "jj" }))
-    .replace("[noun]", RiTa.randomWord({ pos: "nn" }))
-    .replace("[verb]", RiTa.randomWord({ pos: "vbz" }))
-    .replace("[adverb]", RiTa.randomWord({ pos: "rb" }));
-}
+    const template = "The [adjective] [noun] [verb] [adverb].";
 
-console.log(generateSentence());
+    function generateSentence() {
+      return template
+        .replace("[adjective]", RiTa.randomWord({ pos: "jj" }))
+        .replace("[noun]", RiTa.randomWord({ pos: "nn" }))
+        .replace("[verb]", RiTa.randomWord({ pos: "vbz" }))
+        .replace("[adverb]", RiTa.randomWord({ pos: "rb" }));
+    }
 
-</script>
+    const sentence = generateSentence();
+    console.log(sentence);
+    document.getElementById("sentence").textContent = sentence;
+  </script>
+</body>
+</html>
 
 ---
 
@@ -79,96 +91,77 @@ console.log(generateSentence());
 
 - ['Littlest tokyo'](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042) by Glenatron
 
-<!-- <script type="module">
 
-			import * as THREE from 'three';
+  <!-- <script type="module">
+    import * as THREE from 'https://unpkg.com/three@0.160.1/build/three.module.js';
+    import Stats from 'https://unpkg.com/three@0.160.1/examples/jsm/libs/stats.module.js';
+    import { OrbitControls } from 'https://unpkg.com/three@0.160.1/examples/jsm/controls/OrbitControls.js';
+    import { RoomEnvironment } from 'https://unpkg.com/three@0.160.1/examples/jsm/environments/RoomEnvironment.js';
+    import { GLTFLoader } from 'https://unpkg.com/three@0.160.1/examples/jsm/loaders/GLTFLoader.js';
+    import { DRACOLoader } from 'https://unpkg.com/three@0.160.1/examples/jsm/loaders/DRACOLoader.js';
 
-			import Stats from 'three/addons/libs/stats.module.js';
+    let mixer;
 
-			import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-			import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+    const clock = new THREE.Clock();
+    const container = document.getElementById('container');
 
-			import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-			import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
+    const stats = new Stats();
+    container.appendChild(stats.dom);
 
-			let mixer;
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setPixelRatio(window.devicePixelRatio);
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    container.appendChild(renderer.domElement);
 
-			const clock = new THREE.Clock();
-			const container = document.getElementById( 'container' );
+    const pmremGenerator = new THREE.PMREMGenerator(renderer);
 
-			const stats = new Stats();
-			container.appendChild( stats.dom );
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0xbfe3dd);
+    scene.environment = pmremGenerator.fromScene(new RoomEnvironment(), 0.04).texture;
 
-			const renderer = new THREE.WebGLRenderer( { antialias: true } );
-			renderer.setPixelRatio( window.devicePixelRatio );
-			renderer.setSize( window.innerWidth, window.innerHeight );
-			container.appendChild( renderer.domElement );
+    const camera = new THREE.PerspectiveCamera(40, window.innerWidth / window.innerHeight, 1, 100);
+    camera.position.set(5, 2, 8);
 
-			const pmremGenerator = new THREE.PMREMGenerator( renderer );
+    const controls = new OrbitControls(camera, renderer.domElement);
+    controls.target.set(0, 0.5, 0);
+    controls.update();
+    controls.enablePan = false;
+    controls.enableDamping = true;
 
-			const scene = new THREE.Scene();
-			scene.background = new THREE.Color( 0xbfe3dd );
-			scene.environment = pmremGenerator.fromScene( new RoomEnvironment(), 0.04 ).texture;
+    const dracoLoader = new DRACOLoader();
+    dracoLoader.setDecoderPath('https://unpkg.com/three@0.160.1/examples/jsm/libs/draco/'); // Make sure this matches your actual decoder path
 
-			const camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 100 );
-			camera.position.set( 5, 2, 8 );
+    const loader = new GLTFLoader();
+    loader.setDRACOLoader(dracoLoader);
+    loader.load('models/gltf/LittlestTokyo.glb', function (gltf) {
+      const model = gltf.scene;
+      model.position.set(1, 1, 0);
+      model.scale.set(0.01, 0.01, 0.01);
+      scene.add(model);
 
-			const controls = new OrbitControls( camera, renderer.domElement );
-			controls.target.set( 0, 0.5, 0 );
-			controls.update();
-			controls.enablePan = false;
-			controls.enableDamping = true;
+      mixer = new THREE.AnimationMixer(model);
+      mixer.clipAction(gltf.animations[0]).play();
 
-			const dracoLoader = new DRACOLoader();
-			dracoLoader.setDecoderPath( 'jsm/libs/draco/gltf/' );
+      renderer.setAnimationLoop(animate);
+    }, undefined, function (e) {
+      console.error(e);
+    });
 
-			const loader = new GLTFLoader();
-			loader.setDRACOLoader( dracoLoader );
-			loader.load( 'models/gltf/LittlestTokyo.glb', function ( gltf ) {
+    window.onresize = function () {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    };
 
-				const model = gltf.scene;
-				model.position.set( 1, 1, 0 );
-				model.scale.set( 0.01, 0.01, 0.01 );
-				scene.add( model );
+    function animate() {
+      const delta = clock.getDelta();
+      if (mixer) mixer.update(delta);
+      controls.update();
+      stats.update();
+      renderer.render(scene, camera);
+    }
+  </script> -->
 
-				mixer = new THREE.AnimationMixer( model );
-				mixer.clipAction( gltf.animations[ 0 ] ).play();
-
-				renderer.setAnimationLoop( animate );
-
-			}, undefined, function ( e ) {
-
-				console.error( e );
-
-			} );
-
-
-			window.onresize = function () {
-
-				camera.aspect = window.innerWidth / window.innerHeight;
-				camera.updateProjectionMatrix();
-
-				renderer.setSize( window.innerWidth, window.innerHeight );
-
-			};
-
-
-			function animate() {
-
-				const delta = clock.getDelta();
-
-				mixer.update( delta );
-
-				controls.update();
-
-				stats.update();
-
-				renderer.render( scene, camera );
-
-			}
-
-
-		</script> -->
 
 **2. consider the piece of glitch art below by Sabato Visconti**
 

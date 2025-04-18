@@ -45,3 +45,39 @@ Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 - Laboria Cuboniks argues that the alienation that stems from technological advancements should be embraced and serves as an opportunity to abolish oppressive systems. It is a belief system that supports science and technology, in return, believes that something being 'natural' is not always good and should be modified for a better purpose.
 
 ---
+
+# Homework 6b
+
+**1. use either three.js, p5.js, or some other library, to implement a simple shader in your blog.**
+
+**2. choose which text you would like to respond to for your AT2.** 
+
+**a. pick three passages from the text that speak to you the loudest**
+
+**b. pick at least two techniques we have covered over the course of this unit:**
+
+- recursion, 
+- <mark> glitch, </mark>
+- natural-language processing (RiTa), 
+- 3D (three.js), 
+- signals / envelopes,
+- shaders
+
+
+**c. combine the passages and techniques you have chosen into a rudimentary rough draft for your AT2.**
+
+- you do not need render the passages in your composition explicitly
+
+- it is sufficient for the passages to be informing your creative decisions / influencing the composition, etc.
+
+
+**3. solicit some critical, constructive feedback from three colleagues.  Try to ascertain, from a dialogue with each one, how well your rough draft coheres as:**
+
+**A. a response to your chosen text, and why / why not.**
+
+**B. an example of the post-digital, and why / why not.**
+
+**C. functioning in a chaotic aesthetic register, with reference to effective complexity.**
+
+
+**4. use these responses to help devise a plan for the next phase of your AT2 project.**
