@@ -58,14 +58,13 @@ allow_math: true
 <head>
   <meta charset="UTF-8">
   <title>RiTa Sentence Generator</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/rita/2.0.2/rita.min.js"></script>
 </head>
 <body>
   <h1>Random Sentence:</h1>
   <p id="sentence">Generating...</p>
 
-  <script type="module">
-    import RiTa from "https://esm.sh/rita@2.0.2";
-
+  <script>
     const template = "The [adjective] [noun] [verb] [adverb].";
 
     function generateSentence() {
@@ -77,14 +76,12 @@ allow_math: true
     }
 
     const sentence = generateSentence();
-    console.log(sentence);
     document.getElementById("sentence").textContent = sentence;
   </script>
 </body>
 </html>
 
 ---
-
 # Homework 5b
 
 **1. pick a three.js, and implement it directly in your blog.**
