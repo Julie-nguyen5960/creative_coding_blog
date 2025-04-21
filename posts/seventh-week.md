@@ -12,7 +12,11 @@ effective complexity, paying particular attention to:
 
 - structure - what structures our perception of sound? 
 
+
+
 - noise - what differentiates noise from sound, or music?
+
+
 
 - voice - what makes voice a separate category of sound?
 

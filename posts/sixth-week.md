@@ -58,13 +58,15 @@ Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 
 **a. pick three passages from the text that speak to you the loudest**
 
-- "
+- "Information, in its everyday sense, contradicts that sense several times" (page 14)
+- "The universe is made up of matter and information" (page 15)
+- "We are not the only ones endowed with the capability to count or remember" (page 16)
 
 **b. pick at least two techniques we have covered over the course of this unit:**
 
 - recursion, 
 - <mark> glitch, </mark>
-- natural-language processing (RiTa), 
+- <mark> natural-language processing (RiTa), </mark>
 - 3D (three.js), 
 - signals / envelopes,
 - shaders
