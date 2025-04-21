@@ -1,7 +1,7 @@
 ---
 title: Week 6
 published_at: 2025-04-15
-snippet: more coding
+snippet: Java Libraries
 disable_html_sanitization: true
 allow_math: true
 ---

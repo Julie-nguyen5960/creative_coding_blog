@@ -1,7 +1,7 @@
 ---
 title: Week 4
 published_at: 2025-04-07
-snippet: New subject
+snippet: Glitch effects
 disable_html_sanitization: true
 allow_math: true
 ---

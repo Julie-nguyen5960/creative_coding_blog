@@ -1,7 +1,7 @@
 ---
 title: Week 5
 published_at: 2025-04-10
-snippet: more coding
+snippet: Glitch Artists
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -82,12 +82,12 @@ allow_math: true
 </html>
 
 ---
+
 # Homework 5b
 
 **1. pick a three.js, and implement it directly in your blog.**
 
 - ['Littlest tokyo'](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042) by Glenatron
-
 
   <!-- <script type="module">
     import * as THREE from 'https://unpkg.com/three@0.160.1/build/three.module.js';
@@ -158,7 +158,6 @@ allow_math: true
       renderer.render(scene, camera);
     }
   </script> -->
-
 
 **2. consider the piece of glitch art below by Sabato Visconti**
 
