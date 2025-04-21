@@ -1,6 +1,6 @@
 ---
 title: Week 6
-published_at: 2025-04-20
+published_at: 2025-04-15
 snippet: more coding
 disable_html_sanitization: true
 allow_math: true
@@ -50,9 +50,15 @@ Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 
 **1. use either three.js, p5.js, or some other library, to implement a simple shader in your blog.**
 
+
+
 **2. choose which text you would like to respond to for your AT2.** 
+ 
+ - "Information and thinking" by Michel Serres
 
 **a. pick three passages from the text that speak to you the loudest**
+
+- "
 
 **b. pick at least two techniques we have covered over the course of this unit:**
 
