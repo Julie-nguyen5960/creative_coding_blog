@@ -53,33 +53,16 @@ allow_math: true
 
 **3. use RiTa.js. to generate a post-digital poem responding to the work in your blog.**
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>RiTa Sentence Generator</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/rita/2.0.2/rita.min.js"></script>
-</head>
+<html>
 <body>
-  <h1>Random Sentence:</h1>
-  <p id="sentence">Generating...</p>
-
-  <script>
-    const template = "The [adjective] [noun] [verb] [adverb].";
-
-    function generateSentence() {
-      return template
-        .replace("[adjective]", RiTa.randomWord({ pos: "jj" }))
-        .replace("[noun]", RiTa.randomWord({ pos: "nn" }))
-        .replace("[verb]", RiTa.randomWord({ pos: "vbz" }))
-        .replace("[adverb]", RiTa.randomWord({ pos: "rb" }));
-    }
-
-    const sentence = generateSentence();
-    document.getElementById("sentence").textContent = sentence;
+  <div id="content" width=200 height=200></div>
+  <script type="module">
+    import { RiTa } from "https://esm.sh/rita";
+    let words = RiTa.tokenize("The elephant took a bite!");
+    document.getElementById("content").innerHTML = words;
   </script>
 </body>
-</html>
+<html>
 
 ---
 
