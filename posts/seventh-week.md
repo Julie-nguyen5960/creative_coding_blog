@@ -67,3 +67,35 @@ allow_math: true
 - explain your code with the help of syntax-highlighted, commented code blocks
 
 - evaluate the success of your experiment with reference to your discussion in task 1
+
+---
+# Update on assignment 2
+
+**25/4/2025**
+
+I had trouble on importing RiTa onto my script.js file and tried many methods from the RiTa github, but to no avail. It would not let me use normal p5 functions so I felt lost when trying to find other solutions, especially when asking CHATGPT. I finally asked Tom to help me with setting up RiTa since I wanted to use it for my assignment as I felt it best suited the 'Information and Thinking' prompt. Turns out I was importing RiTa the wrong way and was not using ESM, plus I was also forgot to import p5 onto the file as well (gojo.txt is a tester). ESM uses p5 in a slightly different way so that is something I have to adapt to.
+
+![mistakes](Pictures/mistakes.png)
+
+Now I feel that I can get started on my assignment properly. I was now able to import my .txt file into the code that will now show up in the canvas. I feel more confident in carrying out my vision for the assignment. For my assignment, I am going to try encapsulate how information is constantly being passed over but the truth can be manipulated or morph into something completely different, thus an information overload for the reciever. I will do this by making the text itself look glitchy and bounce off the canvas. On top of that, I will probably add some other glitch effects onto the canvas itself to further push the chaos and making the text slightly indiscernable. I had to get CHATGPT to generate the code for the bouncing animation since I did not know how to do it. 
+
+![code](Pictures/code.png)
+
+
+For example, [Frisk-256's](https://editor.p5js.org/Frisk-256/sketches) sketch has an aspect I like where the code manipulates the pixels hence, creating a glitchy animation. I may implement something like this in my net art.
+
+<iframe id="glitch" src="https://editor.p5js.org/Frisk-256/full/vS6fV5h0E"></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`glitch`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
+
+
+
+
+
