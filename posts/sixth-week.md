@@ -50,11 +50,9 @@ Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 
 **1. use either three.js, p5.js, or some other library, to implement a simple shader in your blog.**
 
+**2. choose which text you would like to respond to for your AT2.**
 
-
-**2. choose which text you would like to respond to for your AT2.** 
- 
- - "Information and thinking" by Michel Serres
+- "Information and thinking" by Michel Serres
 
 **a. pick three passages from the text that speak to you the loudest**
 
@@ -64,13 +62,12 @@ Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 
 **b. pick at least two techniques we have covered over the course of this unit:**
 
-- recursion, 
+- recursion,
 - <mark> glitch, </mark>
 - <mark> natural-language processing (RiTa), </mark>
-- 3D (three.js), 
+- 3D (three.js),
 - signals / envelopes,
 - shaders
-
 
 **c. combine the passages and techniques you have chosen into a rudimentary rough draft for your AT2.**
 
@@ -78,14 +75,20 @@ Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 
 - it is sufficient for the passages to be informing your creative decisions / influencing the composition, etc.
 
-
-**3. solicit some critical, constructive feedback from three colleagues.  Try to ascertain, from a dialogue with each one, how well your rough draft coheres as:**
+**3. solicit some critical, constructive feedback from three colleagues. Try to ascertain, from a dialogue with each one, how well your rough draft coheres as:**
 
 **A. a response to your chosen text, and why / why not.**
 
+I had chosen the text 'Information and Thinking' by Michel Serres, it states that information is a messy thing that arises from noise (disruptive information). I empathise with his point when he says "information of the media thus provides mostly no information" because media is overloaded with information that serves little importance and is only there to take up one's time. I also agree that the passing of information can also be chaotic and messy where information can easily morph into misformation spread amongst a wider community. The truth can easily be manipulated.
+
 **B. an example of the post-digital, and why / why not.**
+
+The passing of information has become somewhat post-digital through the use of social media and other techological advancements, meaning that many people can obtain such information from all over the world. In a way, it connects us as a community through this common knowledge and proves that information is a thing that should be shared.
 
 **C. functioning in a chaotic aesthetic register, with reference to effective complexity.**
 
+Pertaining to my net art, I plan to keep it simple by manipulating elements from RiTa with glitches to demonstrate how words can become miscontrued and become indistinguishable once information becomes more widespread. I have chosen to implement RiTa into my project as I believed this best suits the concept of 'Information and thinking.' I intended for the words to appear messy and chaotic in how they bounced around the canvas whilst shaking uncontrollably. As for the sound, the tone '8n' was used to further push the glitch effect by changing the tone from higher to lower pitches at random intervals.
+
+As for effective complexity, I took a passage of text from my chosen text and imported it onto my net art to provide some form of structure or order. The randomness will ocur once I add glitches onto the words and weird sounds in hopes to achieve effective complexity in my artwork.
 
 **4. use these responses to help devise a plan for the next phase of your AT2 project.**

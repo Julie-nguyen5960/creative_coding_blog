@@ -69,6 +69,7 @@ allow_math: true
 - evaluate the success of your experiment with reference to your discussion in task 1
 
 ---
+
 # Update on assignment 2
 
 **25/4/2025**
@@ -77,10 +78,9 @@ I had trouble on importing RiTa onto my script.js file and tried many methods fr
 
 ![mistakes](Pictures/mistakes.png)
 
-Now I feel that I can get started on my assignment properly. I was now able to import my .txt file into the code that will now show up in the canvas. I feel more confident in carrying out my vision for the assignment. For my assignment, I am going to try encapsulate how information is constantly being passed over but the truth can be manipulated or morph into something completely different, thus an information overload for the reciever. I will do this by making the text itself look glitchy and bounce off the canvas. On top of that, I will probably add some other glitch effects onto the canvas itself to further push the chaos and making the text slightly indiscernable. I had to get CHATGPT to generate the code for the bouncing animation since I did not know how to do it. 
+Now I feel that I can get started on my assignment properly. I was now able to import my .txt file into the code that will now show up in the canvas. I feel more confident in carrying out my vision for the assignment. For my assignment, I am going to try encapsulate how information is constantly being passed over but the truth can be manipulated or morph into something completely different, thus an information overload for the reciever. I will do this by making the text itself look glitchy and bounce off the canvas. On top of that, I will probably add some other glitch effects onto the canvas itself to further push the chaos and making the text slightly indiscernable. I had to get CHATGPT to generate the code for the bouncing animation since I did not know how to do it.
 
 ![code](Pictures/code.png)
-
 
 For example, [Frisk-256's](https://editor.p5js.org/Frisk-256/sketches) sketch has an aspect I like where the code manipulates the pixels hence, creating a glitchy animation. I may implement something like this in my net art.
 
@@ -94,8 +94,36 @@ For example, [Frisk-256's](https://editor.p5js.org/Frisk-256/sketches) sketch ha
 
 </script>
 
+---
 
+# Homework 7b
 
+### In her essay on Sianne Ngai: Zany, Cute, Interesting, McKenzie Wark writes: "Unlike the interesting, the zany really works against its constraints."
 
+**1. What do you think she means by this?**
 
+**2. In what ways would you consider the chaotic and the zany to be similar? In what ways are they different?**
 
+**3. In what ways would you consider your AT2 to be zany?**
+
+**4. What might be some ways to make your AT2 more zany?**
+
+### please write an accompaniment to your AT2. Include examples of how and where it uses:
+
+**- variables**
+
+**- iteration**
+
+**- functions**
+
+**- boolean logic**
+
+**- arrays**
+
+**- classes**
+
+**- recursion**
+
+**How it responds to the chosen text**
+
+**Why you consider it to be post-digital**
