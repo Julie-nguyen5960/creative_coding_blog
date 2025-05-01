@@ -121,7 +121,7 @@ I think applying more colours to the canvas could possibly heighten the zany aes
 
 **- variables**
 
-![variable](Pictures/variable.png)
+![variable](Pictures/variables.png)
 
 I tend to declare my variables on top of my code so it looks more organised. These variables consist of Serres' texts, synth, words, wordObjects, pixels and the animation. Once again, this is used so that I can apply different attributes to certain objects.
 
@@ -139,7 +139,7 @@ This code utilises functions such as function drawWords(), function capturePixel
 
 **- boolean logic**
 
-![variable](Pictures/variable.png)
+![variable](Pictures/variables.png)
 
 The one time I used boolean logic is within the variables for "let animate= false." By setting it as false, I am setting the initial state to false where it isn't animated unless the mouse is pressed.
 
