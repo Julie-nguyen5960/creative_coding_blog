@@ -77,18 +77,25 @@ Xenofeminism: A Politics for Alienation by Laboria Cuboniks
 
 **3. solicit some critical, constructive feedback from three colleagues. Try to ascertain, from a dialogue with each one, how well your rough draft coheres as:**
 
-**A. a response to your chosen text, and why / why not.**
+**My idea**
 
 I had chosen the text 'Information and Thinking' by Michel Serres, it states that information is a messy thing that arises from noise (disruptive information). I empathise with his point when he says "information of the media thus provides mostly no information" because media is overloaded with information that serves little importance and is only there to take up one's time. I also agree that the passing of information can also be chaotic and messy where information can easily morph into misformation spread amongst a wider community. The truth can easily be manipulated.
 
+The passing of information has become somewhat post-digital through the use of social media and other techological advancements, meaning that many people can obtain such information from all over the world. In a way, it connects us as a community through this common knowledge and proves that information is a thing that should be shared.
+
+
+Pertaining to my net art, I plan to keep it simple by manipulating elements from RiTa with glitches to demonstrate how words can become miscontrued and become indistinguishable once information becomes more widespread. I have chosen to implement RiTa into my project as I believed this best suits the concept of 'Information and thinking.' I intended for the words to appear messy and chaotic in how they bounced around the canvas whilst shaking uncontrollably. As for the sound, the tone '8n' was used to further push the glitch effect by changing the tone from higher to lower pitches at random intervals. As for effective complexity, I took a passage of text from my chosen text and imported it onto my net art to provide some form of structure or order. The randomness will ocur once I add glitches onto the words and weird sounds in hopes to achieve effective complexity in my artwork.
+
+
+**A. a response to your chosen text, and why / why not.**
+
+Most said that my idea was thoughtful and clear from how I shed light onto the chaotic nature of media, making it more accessible and relatable to many people. They said I had encapsulated Serre's argument effectively with insightful thoughts and critical understanding. 
+
 **B. an example of the post-digital, and why / why not.**
 
-The passing of information has become somewhat post-digital through the use of social media and other techological advancements, meaning that many people can obtain such information from all over the world. In a way, it connects us as a community through this common knowledge and proves that information is a thing that should be shared.
+I also got feedback saying that my idea is a good example of the post-digital, stemming from my ability to blend Serre's concept of 'Information and thinking' with my idea of social media and global information. It alligns well with the post-digital since it shapes the way we think in a society where technology is constantly evolving.  
 
 **C. functioning in a chaotic aesthetic register, with reference to effective complexity.**
 
-Pertaining to my net art, I plan to keep it simple by manipulating elements from RiTa with glitches to demonstrate how words can become miscontrued and become indistinguishable once information becomes more widespread. I have chosen to implement RiTa into my project as I believed this best suits the concept of 'Information and thinking.' I intended for the words to appear messy and chaotic in how they bounced around the canvas whilst shaking uncontrollably. As for the sound, the tone '8n' was used to further push the glitch effect by changing the tone from higher to lower pitches at random intervals.
+They said my idea is a strong response to the chaotic aesthetic register, especially from the way I balanced structured text with glitch-based disruption. My choices in visual and auditory elements were well-justified and alligns well with the theme.
 
-As for effective complexity, I took a passage of text from my chosen text and imported it onto my net art to provide some form of structure or order. The randomness will ocur once I add glitches onto the words and weird sounds in hopes to achieve effective complexity in my artwork.
-
-**4. use these responses to help devise a plan for the next phase of your AT2 project.**
