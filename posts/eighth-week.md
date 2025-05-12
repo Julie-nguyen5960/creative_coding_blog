@@ -18,7 +18,7 @@ allow_math: true
 
 - Film/digital Cameras
 
-- Digital arts
+- Fanfiction community
 
 **- list the domain, repertoire, and values of each CoP**
 
@@ -54,11 +54,11 @@ Film/digital camera:
 
 - Values: Be open to criticism, have fun, find your personal style.
 
-Digital arts:
+fanfiction community:
 
-- Domain (area of interest/shared topic to bring group together): The artform of drawing
+- Domain (area of interest/shared topic to bring group together): The artform of writing and reading other people's works
 
-- Repertoire (Shared tools, practices, language and routine): Drawing pad or sketchbook, Discord, Instagram or Twitter for sharing art, Discord and Youtube are good sharing platform for artists, Drawing regularly or having an art month challenge.
+- Repertoire (Shared tools, practices, language and routine): website AO3, Fanfiction.net or Wattpad, Discord, Instagram or Twitter for updates,
 
 - Values: Be open to criticism, have fun, find your personal style.
 
@@ -90,38 +90,75 @@ Because these communities outline one's interests and hobbies, making them disti
 
 **1. In teams of 2 or 3, use flok.cc to stage a 6-24 minute, collaborative live coding performance that uses:**
 
-- hydra for visuals
+- hydra for visuals (Me- Julie)
 
-- strudel for audio
+- strudel for audio (My partner- Waikei)
 
 **2. Take a screen recording of the performance, upload to YouTube, and embed it in a blog post that discusses the practice of live coding. Please include in your discussion:**
 
-- a description of what live coding is
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y98YHzGGLC0?si=vHLG1te7R7W7qJXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- the differences between live coding and other forms of music performance for:
+a description of what live coding is
 
-- the audience
+- Live coding is a performative art where an individual or groups of people code live and in real time, demonstrating how code can be manipulated to generate art, sounds, visuals and other media forms.   
 
-- the performer
+the differences between live coding and other forms of music performance for:
 
-- an account of your own experience doing live coding, with reference to both:
+- The major differences between live coding and the other forms of music performances is the medium used to execute these tasks, where live coding requires a computer whereas a music performance utilises real instruments and an ochestra. Live coding can recreate the sounds of a musical performance with the use of Strudel and its notes, but a music performance requires a lot of training and performing the instrument well.
 
-- aspects that you found frustrating
 
-- aspects that you found rewarding
+the audience
+
+- Live coding caters more towards students or the general public who are trying to learn how to code and further enhance their problem-solving skills through watching someone code in real time. 
+
+
+the performer
+
+- This also helps the performer enhance their problem-solving skills whilst demonstrating to the audience in how flexible coding is for creating visuals and sounds.
+
+
+**an account of your own experience doing live coding, with reference to both:**
+
+aspects that you found frustrating
+
+- Whenever my code would not work or not run the sketch despite me cross-checking with my references. The function to run the sketch doesn't work properly for me sometimes so I would need Waikei to run the sketch for me instead.
+
+aspects that you found rewarding
+
+- The most rewarding part is when Waikei and I worked together to create mesmerising visuals and sounds, making us feel like we have accomplished something.
 
 **3. Include in your blog post a discussion about the live coding community of practice. Please include:**
 
-- some links to live coding content that you find interesting, and why
+some links to live coding content that you find interesting, and why
 
-- a description of this community's domain, repertoire, and values
+[Website we used for Hydra](https://hydra-book.glitch.me/#/)
 
-- some discussion regarding the relation (if any) between cultural performance practices (music, theatre, art, etc.) and:
+[Website we used for Strudel](https://strudel.cc/workshop/first-sounds/)
 
-- young people's intrinsic motivations for learning
+- It contains several tutorials and examples in how to code for these libraries, showing that there is a wider community of programmers that are willing to help out people who just started.
 
-- education systems & pedagogy
+a description of this community's domain, repertoire, and values
 
-- discourse / public debate, more broadly
+- **domain-** Creating art through coding.
 
-- legislation
+- **repertoire-** Discord, blogs, youtube and many other sources
+
+- **Values-** Learning is part of the process and keep trying.
+
+some discussion regarding the relation (if any) between cultural performance practices (music, theatre, art, etc.) and:
+
+**young people's intrinsic motivations for learning**
+
+- There are youtube tutorials for these things and many websites that appeal to young people's motivation to learn. It is an acquired skill that builds overtime the more you do it.
+
+education systems & pedagogy
+
+- They are connected in how they provide a source for learning and a sense of community.
+
+discourse / public debate, more broadly
+
+- 
+
+legislation
+
+- 
