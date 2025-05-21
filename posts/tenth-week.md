@@ -1,6 +1,6 @@
 ---
 title: Week 10
-published_at: 2025-05-12
+published_at: 2025-05-21
 snippet: something
 disable_html_sanitization: true
 allow_math: true
@@ -29,3 +29,39 @@ According to the WebSocket MDN page, I think I would need to learn how to write 
 The implementation of WebSocket would allow the project to become more interactive through its real-time, bidirectional communication between the client and server. Project will be able to update instantaneously and would display the user activity.
 
 ![websocket diagram](Pictures/websocket.png)
+
+--- 
+# Homework 10b
+
+#### 1. choose a scripting language workflow out of the following options:
+
+- lua5
+
+- Art from Code (R)
+
+- Manim (python)
+
+- Ruby 2D
+
+- <mark> Scripting in Unity </mark>
+
+- some other scripting language workflow
+
+
+#### 2. find a tutorial series on this approach, and follow along until you understand the basics.
+
+#### 3. create a script that demonstrates what you have learned.
+
+
+#### 4. document the process in a blog post discussing:
+
+why you are interested in this scripting language
+
+
+how you might use this scripting language in your own creative practice
+
+
+the strengths & weaknesses of this scripting language vs other scripting languages
+
+
+the strengths & weaknesses of scripting languages in general, vs compiled languages
