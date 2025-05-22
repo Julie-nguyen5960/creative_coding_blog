@@ -50,6 +50,9 @@ The implementation of WebSocket would allow the project to become more interacti
 
 #### 2. find a tutorial series on this approach, and follow along until you understand the basics.
 
+
+
+
 #### 3. create a script that demonstrates what you have learned.
 
 
