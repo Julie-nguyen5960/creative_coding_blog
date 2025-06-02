@@ -1,7 +1,7 @@
 ---
 title: Week 11
 published_at: 2025-06-02
-snippet: something
+snippet: recording
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -25,7 +25,10 @@ allow_math: true
 
 #### 4. write down your plan for AT3.  Include:
 
-- the domain, repertoire, and values of the community you have chosen
+The domain, repertoire, and values of the community you have chosen
+
+- As I have stated before, I have chosen volleyball as the community I engaged with the most  
+
 
 - an explanation of the code you are planning to use
 
